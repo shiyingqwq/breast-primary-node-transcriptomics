@@ -1,0 +1,11 @@
+column_one_based,sample_id,patient_id,tissue,GSM,malignant_cell_count
+1,patient_1_Primary,patient_1,Primary,GSM5091209,69
+2,patient_1_Node,patient_1,Node,GSM5091217,45
+3,patient_5_Primary,patient_5,Primary,GSM5091213,505
+4,patient_5_Node,patient_5,Node,GSM5091221,60
+5,patient_6_Primary,patient_6,Primary,GSM5091214,23
+6,patient_6_Node,patient_6,Node,GSM5091222,80
+7,patient_7_Primary,patient_7,Primary,GSM5091215,440
+8,patient_7_Node,patient_7,Node,GSM5091223,31
+9,patient_8_Primary,patient_8,Primary,GSM5091216,289
+10,patient_8_Node,patient_8,Node,GSM5091224,753

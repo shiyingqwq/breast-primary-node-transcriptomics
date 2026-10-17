@@ -1,0 +1,10 @@
+options(stringsAsFactors=FALSE,warn=1)
+root <- normalizePath(Sys.getenv('BCPN_WORKSPACE'),winslash='/')
+out <- file.path(root,'molecular')
+if(nzchar(Sys.getenv("BCPN_R_LIBRARY"))) .libPaths(c(Sys.getenv("BCPN_R_LIBRARY"),.libPaths()))
+library(jsonlite)
+read_csv <- function(p)read.csv(p,check.names=FALSE,fileEncoding='UTF-8-BOM')
+write_csv <- function(d,n)write.csv(d,file.path(out,n),row.names=FALSE,na='')
+save_json <- function(d,n)write_json(d,file.path(out,n),pretty=TRUE,auto_unbox=TRUE,digits=NA)
+
+dir.create(file.path(out,'work'),recursive=TRUE,showWarnings=FALSE)

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+.env
+.env.*
+workspace/
+config/local.json
+*.log
+.DS_Store
+Thumbs.db

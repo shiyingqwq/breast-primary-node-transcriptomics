@@ -1,0 +1,17 @@
+# Molecular readouts
+
+Research molecular readouts
+
+The genefu 2.40.0 released pam50.robust centroids were used with Spearman correlation and q = 0.05 robust scaling. Gene-wise 2.5th and 97.5th percentiles were estimated from the pooled 72 specimens and applied identically to both tissues. Missing features were ANLN, CDCA1, CXXC5, GPR160, KRT17, TMEM45B and UBE2T. Available-feature assignment retained all patients, with no imputation or margin-based exclusion. The available-feature fallback was adopted after continuous-readout analysis but before examining PAM50 assignments. Ordinary Cohen kappa described subtype agreement; the 8/36 discordance estimate had a Wilson 95% interval of 11.7–38.1%.
+
+Eleven programs comprised early and late estrogen response, E2F, G2M, epithelial-mesenchymal transition, TNF/NF-kappaB, hypoxia, adipogenesis, B-cell receptor, extracellular matrix and ERBB2 signaling. Full released program definitions were used, not the differential-gene subset. Mean available-gene z-scores used the common pooled 72-specimen reference. Four transcripts and eight retained tissue readouts joined these programs in a single 23-readout correction family.
+
+ROR-S-like = 0.05*Basal correlation + 0.12*HER2 correlation - 0.34*Luminal A correlation + 0.23*Luminal B correlation, using saved robust-centroid correlations. It is not an exact commercial ROR or genefu rorS calculation. GGI-like was the mean signed z-score of 101 unique available genes: grade-3 direction +1, grade-1 direction -1. Source coverage was 113/128 original features and 101/104 uniquely annotated Entrez genes. Duplicate source probes were collapsed; conflicting directions were excluded.
+
+RS-like used Primary-reference z-scores with the remaining published coefficients: proliferation genes +0.208 each, invasion genes +0.05 each, GRB7 +0.423, ERBB2 +0.047, ESR1 -0.068, PGR -0.102, BCL2 and SCUBE2 -0.085 each, GSTM1 -0.08 and BAG1 -0.07. Unavailable CD68 was omitted, without imputation. PCR reference normalization, expression floors, 0–100 scaling and commercial cutoffs were not applied. GGI-like and RS-like used gene means and sample standard deviations from all 36 primary tumors, applied unchanged to nodes.
+
+Primary-defined type-7 lower/upper tertile cutoffs were 0.0185901/0.173049 for ROR-S-like, -0.258283/0.366682 for GGI-like and -0.130865/0.617401 for RS-like. Node specimens used identical cutoffs. Linear weighted kappa described relative-stratum agreement. Three paired tests shared one correction family. The 70-gene implementation was not executed because 47/70 original features were available, below its 80% coverage rule; ROR-P was not calculated. All implementations included the mixed-subtype cohort and were research expression measures.
+
+## Supplementary Methods S4. Nodal burden
+
+METABRIC scores used the cohort-wide means and sample standard deviations of 1,964 expression-eligible tumors. Coverage was extracellular matrix 317/321, B-cell receptor 62/78, E2F 198/200, G2M 199/200 and adipogenesis 199/200 genes. Missing/invalid positive-node counts excluded 74 patients from association tests, without excluding them from the expression reference. Main correlations used actual node counts with correction across all five programs. Supplementary Kruskal-Wallis group comparisons and univariable ordinal logistic associations each had a separate five-test correction family. Proportional odds was not independently tested, so the ordinal results remained exploratory. No clinical adjustment was performed for the five-program associations.

@@ -1,0 +1,3 @@
+method,score,signature_genes_N,observed_genes_N,missing_genes
+ESTIMATE,stromal_signature,141,140,SPON2
+ESTIMATE,immune_signature,141,137,ARHGAP15;IFI30;KLRK1;CD302

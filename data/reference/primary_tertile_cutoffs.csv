@@ -1,0 +1,4 @@
+signature,lower_tertile,upper_tertile,reference_N,reference_tissue,type,low_rule,intermediate_rule,high_rule
+ROR-S-like,0.0185900533574953,0.17304892781637,36,Primary,7,score<=lower,lower<score<=upper,score>upper
+GGI-like,-0.258282685617522,0.366681575114472,36,Primary,7,score<=lower,lower<score<=upper,score>upper
+RS-like,-0.130865272745589,0.617400672967535,36,Primary,7,score<=lower,lower<score<=upper,score>upper

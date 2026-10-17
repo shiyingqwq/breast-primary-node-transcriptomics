@@ -1,0 +1,8 @@
+score,discordant_N,concordant_N,discordant_median_abs_delta,concordant_median_abs_delta,raw_P,status,test,BH_q,BH_family
+StromalScore,8,28,749.013927543276,427.172690362196,0.458091002207859,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.534439502575835,Seven prespecified discordance drivers
+B_lineage,8,28,0.992887222222222,1.08468055555556,1,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",1,Seven prespecified discordance drivers
+Fibroblast,8,28,0.762924375000001,0.46417375,0.21621460467883,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.302700446550362,Seven prespecified discordance drivers
+Endothelial,8,28,0.490367045454546,0.162572045454545,0.00114049678820184,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.00798347751741291,Seven prespecified discordance drivers
+EMT,8,28,0.554015674899374,0.235679039043509,0.0706966377625623,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.123719116084484,Seven prespecified discordance drivers
+E2F,8,28,0.347563148534308,0.133827173512404,0.00914750777798078,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.0320162772229327,Seven prespecified discordance drivers
+G2M,8,28,0.311062432519852,0.118094359228306,0.0457517962065046,EVALUABLE,"Two-sided rank-sum, exact=FALSE, continuity correction",0.106754191148511,Seven prespecified discordance drivers

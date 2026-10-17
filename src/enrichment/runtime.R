@@ -1,0 +1,10 @@
+options(stringsAsFactors=FALSE,warn=1)
+root <- normalizePath(Sys.getenv('BCPN_WORKSPACE'),winslash='/')
+out <- file.path(root,'enrichment');src <- file.path(out,'sources')
+if(nzchar(Sys.getenv("BCPN_R_LIBRARY"))) .libPaths(c(Sys.getenv("BCPN_R_LIBRARY"),.libPaths()))
+library(jsonlite)
+read_csv <- function(path)read.csv(path,check.names=FALSE,fileEncoding='UTF-8-BOM')
+write_csv <- function(d,name)write.csv(d,file.path(out,name),row.names=FALSE,na='')
+save_json <- function(d,name)write_json(d,file.path(out,name),pretty=TRUE,auto_unbox=TRUE,digits=NA)
+
+dir.create(file.path(out,'work'),recursive=TRUE,showWarnings=FALSE)

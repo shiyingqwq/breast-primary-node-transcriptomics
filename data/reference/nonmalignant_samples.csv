@@ -1,0 +1,91 @@
+column_one_based,population,sample_id,patient_id,tissue,author_sample_type,GSM,author_label_cell_count
+1,B,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,323
+2,B,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,832
+3,B,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,164
+4,B,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,2036
+5,B,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,645
+6,B,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,2027
+7,B,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,348
+8,B,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,1426
+9,B,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,505
+10,B,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,777
+11,CAFs,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,546
+12,CAFs,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,242
+13,CAFs,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,1701
+14,CAFs,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,223
+15,CAFs,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,344
+16,CAFs,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,222
+17,CAFs,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,212
+18,CAFs,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,226
+19,CAFs,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,236
+20,CAFs,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,218
+21,CD4+ T,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,1824
+22,CD4+ T,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,1140
+23,CD4+ T,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,489
+24,CD4+ T,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,2476
+25,CD4+ T,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,2202
+26,CD4+ T,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,4506
+27,CD4+ T,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,605
+28,CD4+ T,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,1871
+29,CD4+ T,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,1220
+30,CD4+ T,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,510
+31,CD8+ T,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,2146
+32,CD8+ T,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,538
+33,CD8+ T,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,1375
+34,CD8+ T,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,812
+35,CD8+ T,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,2303
+36,CD8+ T,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,1057
+37,CD8+ T,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,608
+38,CD8+ T,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,1192
+39,CD8+ T,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,1821
+40,CD8+ T,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,805
+41,DCs,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,211
+42,DCs,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,209
+43,DCs,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,156
+44,DCs,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,157
+45,DCs,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,107
+46,DCs,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,198
+47,DCs,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,204
+48,DCs,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,179
+49,DCs,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,77
+50,DCs,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,135
+51,Macrophage,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,413
+52,Macrophage,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,138
+53,Macrophage,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,276
+54,Macrophage,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,80
+55,Macrophage,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,174
+56,Macrophage,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,207
+57,Macrophage,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,376
+58,Macrophage,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,139
+59,Macrophage,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,138
+60,Macrophage,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,282
+61,NK,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,474
+62,NK,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,103
+63,NK,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,245
+64,NK,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,174
+65,NK,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,237
+66,NK,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,263
+67,NK,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,301
+68,NK,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,189
+69,NK,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,412
+70,NK,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,262
+71,TECs,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,337
+72,TECs,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,203
+73,TECs,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,1131
+74,TECs,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,346
+75,TECs,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,317
+76,TECs,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,221
+77,TECs,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,238
+78,TECs,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,283
+79,TECs,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,233
+80,TECs,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,203
+81,plasma B,patient_1_Primary,patient_1,Primary,Tumor,GSM5091209,984
+82,plasma B,patient_1_Node,patient_1,Node,Lymph Node,GSM5091217,128
+83,plasma B,patient_5_Primary,patient_5,Primary,Tumor,GSM5091213,174
+84,plasma B,patient_5_Node,patient_5,Node,Lymph Node,GSM5091221,120
+85,plasma B,patient_6_Primary,patient_6,Primary,Tumor,GSM5091214,58
+86,plasma B,patient_6_Node,patient_6,Node,Lymph Node,GSM5091222,189
+87,plasma B,patient_7_Primary,patient_7,Primary,Tumor,GSM5091215,595
+88,plasma B,patient_7_Node,patient_7,Node,Lymph Node,GSM5091223,216
+89,plasma B,patient_8_Primary,patient_8,Primary,Tumor,GSM5091216,441
+90,plasma B,patient_8_Node,patient_8,Node,Lymph Node,GSM5091224,286

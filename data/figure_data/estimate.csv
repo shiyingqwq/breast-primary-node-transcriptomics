@@ -1,0 +1,5 @@
+method,score,n_pairs,median_Primary,median_Node,mean_delta,median_delta,direction,raw_P,Wilcoxon_W,zero_deltas,absolute_delta_ties,test,BH_q,significant,BH_family
+ESTIMATE,ImmuneScore,36,1689.50917016572,1833.53441226668,159.892447800853,17.1003561437128,Node_higher,0.383242797227954,389,0,FALSE,Two-sided paired Wilcoxon; asymptotic; continuity correction; zeros omitted,0.383242797227954,FALSE,ESTIMATE
+ESTIMATE,StromalScore,36,861.717332847065,388.300438202604,-446.914003629777,-409.889143693836,Node_lower,9.75532247702851e-06,51,0,FALSE,Two-sided paired Wilcoxon; asymptotic; continuity correction; zeros omitted,3.9021289908114e-05,TRUE,ESTIMATE
+ESTIMATE,ESTIMATEScore,36,2497.308569574,2382.0334590044,-287.021555828924,-282.735066758598,Node_lower,0.103940188080244,229,0,FALSE,Two-sided paired Wilcoxon; asymptotic; continuity correction; zeros omitted,0.143099967624403,FALSE,ESTIMATE
+ESTIMATE,TumorPurity,36,0.563970485587013,0.577891260451668,0.0331946139457918,0.0346969044713772,Node_higher,0.107324975718302,436,0,FALSE,Two-sided paired Wilcoxon; asymptotic; continuity correction; zeros omitted,0.143099967624403,FALSE,ESTIMATE

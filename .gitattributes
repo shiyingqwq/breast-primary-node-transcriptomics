@@ -1,0 +1,9 @@
+*.pdf binary
+*.png binary
+*.tiff binary
+*.tif binary
+*.xlsx binary
+*.zip binary
+*.gz binary
+*.float64 binary
+*.rds binary

@@ -1,0 +1,48 @@
+{
+  "workspace": "workspace",
+  "rscript": "Rscript",
+  "r_library": null,
+  "python": "python",
+  "figure_root": "workspace/figures",
+  "stages": {
+    "bulk": [
+      "src/bulk/paired_differential_expression.R"
+    ],
+    "malignant": [
+      "src/cellular/malignant_pseudobulk_support.R"
+    ],
+    "nonmalignant": [
+      "src/cellular/nonmalignant_pseudobulk_support.R"
+    ],
+    "enrichment": [
+      "src/enrichment/prepare_expression.R",
+      "src/enrichment/directional_and_ranked_enrichment.R",
+      "src/enrichment/inferred_tissue_scores.R"
+    ],
+    "molecular": [
+      "src/molecular/check_pam50_coverage.R",
+      "src/molecular/paired_program_readouts.R",
+      "src/molecular/pam50_available_feature_assignment.R"
+    ],
+    "clinical-context": [
+      "src/clinical_context/prepare_risk_readouts.R",
+      "src/clinical_context/prepare_metabric_programs.py",
+      "src/clinical_context/risk_strata_and_nodal_burden.R"
+    ],
+    "secondary-models": [
+      "src/secondary_models/directional_global_score.R",
+      "src/secondary_models/clinical_boundary_models.R",
+      "src/secondary_models/train_expression_models.R",
+      "src/secondary_models/external_model_comparison.R"
+    ],
+    "figures": [
+      "src/figures/render_main_and_selected_supplement.py"
+    ],
+    "graphical-abstract": [
+      "src/figures/graphical_abstract.py"
+    ],
+    "clinical-scoring": [
+      "src/secondary_models/directional_global_score.R"
+    ]
+  }
+}

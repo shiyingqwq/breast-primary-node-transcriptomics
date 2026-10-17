@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the study and original cohort/method sources when using this repository."
+title: "Integrative transcriptomic analysis of stromal–immune remodeling and molecular discordance in paired breast tumors and lymph node metastases"
+type: software
+version: 1.1.0
+date-released: 2026-10-17
+repository-code: https://github.com/shiyingqwq/breast-primary-node-transcriptomics
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Shiyang
+  - family-names: Yuan
+    given-names: Yi
+  - family-names: Gong
+    given-names: Yixin
+  - family-names: Wang
+    given-names: Jing
+    orcid: https://orcid.org/0000-0002-1366-4936

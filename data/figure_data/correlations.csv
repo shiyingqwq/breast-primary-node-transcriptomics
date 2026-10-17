@@ -1,0 +1,9 @@
+x_delta,y_delta,n_pairs,rho,raw_P,shared_module_genes_N,test,interpretation,BH_q,BH_family_N
+StromalScore,EMT,36,0.682882882882883,4.46080709398264e-06,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,8.92161418796528e-06,8
+StromalScore,ECM,36,0.535907335907336,0.000755518297582048,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,0.0010073577301094,8
+StromalScore,Adipogenesis,36,0.0334620334620335,0.846378931654675,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,0.846378931654675,8
+B_lineage,BCR,36,0.934362934362934,8.38368629112958e-17,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,3.35347451645183e-16,8
+Fibroblast,ECM,36,0.657915057915058,1.29729006817247e-05,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,2.07566410907595e-05,8
+Fibroblast,EMT,36,0.887001287001287,5.91897632435881e-13,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,1.57839368649568e-12,8
+E2F,MKI67,36,0.281595881595882,0.0961506269646743,,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,0.109886430816771,8
+E2F,G2M,36,0.970656370656371,1.26277256549406e-22,73,"Two-sided Spearman, exact=FALSE",Association only; shared markers/data may contribute,1.01021805239525e-21,8

@@ -1,0 +1,289 @@
+GSM,patient,tissue,signature,score,risk_category,lower_cutoff,upper_cutoff,implementation
+GSM1398806,A,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398807,A,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398844,AA,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398845,AA,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398846,AC,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398847,AC,Node,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398848,AD,Primary,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398849,AD,Node,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398850,AF,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398851,AF,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398852,AG,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398853,AG,Node,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398854,AH,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398855,AH,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398856,AI,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398857,AI,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398858,AJ,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398859,AJ,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398860,AK,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398861,AK,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398874,AO,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398875,AO,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398862,AQ,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398863,AQ,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398864,AR,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398865,AR,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398866,AS,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398867,AS,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398868,AW,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398869,AW,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398870,AX,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398871,AX,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398872,AY,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398873,AY,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398876,AZ,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398877,AZ,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398808,E,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398809,E,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398810,F,Primary,PAM50,,Normal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398811,F,Node,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398812,H,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398813,H,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398814,J,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398815,J,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398816,K,Primary,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398817,K,Node,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398818,L,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398819,L,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398820,O,Primary,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398821,O,Node,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398822,P,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398823,P,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398824,Q,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398825,Q,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398826,R,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398827,R,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398828,S,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398829,S,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398830,T,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398831,T,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398832,U,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398833,U,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398834,V,Primary,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398835,V,Node,PAM50,,HER2-enriched,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398836,W,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398837,W,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398838,X,Primary,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398839,X,Node,PAM50,,Luminal B,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398840,Y,Primary,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398841,Y,Node,PAM50,,Luminal A,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398842,Z,Primary,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398843,Z,Node,PAM50,,Basal-like,,,Reused study 43/50-gene research subtype; not an ordered risk category
+GSM1398806,A,Primary,ROR-S-like,-0.172449411054062,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398807,A,Node,ROR-S-like,-0.0823150105708247,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398844,AA,Primary,ROR-S-like,0.0791966173361522,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398845,AA,Node,ROR-S-like,0.136898218061009,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398846,AC,Primary,ROR-S-like,0.0405134400483238,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398847,AC,Node,ROR-S-like,-0.119488070069465,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398848,AD,Primary,ROR-S-like,0.0161356085774691,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398849,AD,Node,ROR-S-like,0.117446390818484,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398850,AF,Primary,ROR-S-like,0.18234219269103,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398851,AF,Node,ROR-S-like,0.174267592872244,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398852,AG,Primary,ROR-S-like,-0.320084566596194,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398853,AG,Node,ROR-S-like,-0.178006644518272,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398854,AH,Primary,ROR-S-like,0.118498942917548,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398855,AH,Node,ROR-S-like,0.118939897311991,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398856,AI,Primary,ROR-S-like,-0.0811794019933555,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398857,AI,Node,ROR-S-like,-0.0814980368468742,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398858,AJ,Primary,ROR-S-like,0.321519178495923,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398859,AJ,Node,ROR-S-like,0.36855028692238,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398860,AK,Primary,ROR-S-like,0.182810329205678,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398861,AK,Node,ROR-S-like,0.339130172153428,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398874,AO,Primary,ROR-S-like,0.296656599214739,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398875,AO,Node,ROR-S-like,0.262245545152522,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398862,AQ,Primary,ROR-S-like,0.208544246451223,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398863,AQ,Node,ROR-S-like,0.258630323165207,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398864,AR,Primary,ROR-S-like,0.135016611295681,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398865,AR,Node,ROR-S-like,0.0816414980368469,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398866,AS,Primary,ROR-S-like,0.273649954696466,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398867,AS,Node,ROR-S-like,0.227437330111749,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398868,AW,Primary,ROR-S-like,0.16840229537904,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398869,AW,Node,ROR-S-like,0.232709151313802,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398870,AX,Primary,ROR-S-like,-0.354436726064633,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398871,AX,Node,ROR-S-like,-0.0114346118997283,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398872,AY,Primary,ROR-S-like,0.0795816973723952,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398873,AY,Node,ROR-S-like,0.203881002718212,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398876,AZ,Primary,ROR-S-like,-0.278726970703715,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398877,AZ,Node,ROR-S-like,0.240332225913621,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398808,E,Primary,ROR-S-like,-0.352061310782241,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398809,E,Node,ROR-S-like,-0.0356463304137723,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398810,F,Primary,ROR-S-like,-0.374688915735427,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398811,F,Node,ROR-S-like,-0.296490486257928,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398812,H,Primary,ROR-S-like,0.0565901540320144,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398813,H,Node,ROR-S-like,0.0757384475989126,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398814,J,Primary,ROR-S-like,0.0790863787375415,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398815,J,Node,ROR-S-like,0.112088492902446,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398816,K,Primary,ROR-S-like,0.262774086378738,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398817,K,Node,ROR-S-like,0.206408939897312,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398818,L,Primary,ROR-S-like,0.117221383267895,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398819,L,Node,ROR-S-like,0.284087888855331,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398820,O,Primary,ROR-S-like,0.298498942917548,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398821,O,Node,ROR-S-like,0.36622772576261,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398822,P,Primary,ROR-S-like,0.208480821504077,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398823,P,Node,ROR-S-like,0.232757475083056,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398824,Q,Primary,ROR-S-like,-0.125403201449713,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398825,Q,Node,ROR-S-like,-0.0422244035034733,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398826,R,Primary,ROR-S-like,-0.419986408939897,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398827,R,Node,ROR-S-like,0.0151208094231352,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398828,S,Primary,ROR-S-like,-0.0221005738447598,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398829,S,Node,ROR-S-like,-0.0471519178495924,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398830,T,Primary,ROR-S-like,0.0198172757475083,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398831,T,Node,ROR-S-like,0.0374614919963755,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398832,U,Primary,ROR-S-like,0.306251887647237,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398833,U,Node,ROR-S-like,0.0608668076109937,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398834,V,Primary,ROR-S-like,0.194056176381758,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398835,V,Node,ROR-S-like,0.190750528541226,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398836,W,Primary,ROR-S-like,0.112363334340079,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398837,W,Node,ROR-S-like,0.117106614315917,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398838,X,Primary,ROR-S-like,0.0650664451827242,Intermediate,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398839,X,Node,ROR-S-like,0.24089247961341,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398840,Y,Primary,ROR-S-like,-0.330903050437934,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398841,Y,Node,ROR-S-like,-0.103269405013591,Low,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398842,Z,Primary,ROR-S-like,0.261402899426155,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398843,Z,Node,ROR-S-like,0.332017517366355,High,0.0185900533574953,0.17304892781637,Primary-tertile research approximation; not a validated clinical assay
+GSM1398806,A,Primary,GGI-like,-0.65990697327359,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398807,A,Node,GGI-like,-0.466110835895898,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398844,AA,Primary,GGI-like,0.281457969061555,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398845,AA,Node,GGI-like,0.304510729293018,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398846,AC,Primary,GGI-like,-0.349259117355607,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398847,AC,Node,GGI-like,-1.13218453715901,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398848,AD,Primary,GGI-like,-0.410773045626614,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398849,AD,Node,GGI-like,-0.436661144619071,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398850,AF,Primary,GGI-like,0.775639165749316,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398851,AF,Node,GGI-like,0.910344764549632,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398852,AG,Primary,GGI-like,-1.46596753628627,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398853,AG,Node,GGI-like,-1.20270013413403,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398854,AH,Primary,GGI-like,0.473008962943076,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398855,AH,Node,GGI-like,0.418216020477352,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398856,AI,Primary,GGI-like,-0.559651055103209,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398857,AI,Node,GGI-like,-0.540029346111505,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398858,AJ,Primary,GGI-like,0.946752967820985,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398859,AJ,Node,GGI-like,0.774413140912426,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398860,AK,Primary,GGI-like,0.163491853518544,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398861,AK,Node,GGI-like,1.22078054166065,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398874,AO,Primary,GGI-like,0.794638234448682,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398875,AO,Node,GGI-like,0.344629892761707,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398862,AQ,Primary,GGI-like,0.809874899709515,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398863,AQ,Node,GGI-like,0.907446731110356,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398864,AR,Primary,GGI-like,0.329316956803441,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398865,AR,Node,GGI-like,0.142128712673832,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398866,AS,Primary,GGI-like,0.609252328719157,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398867,AS,Node,GGI-like,0.369519474313855,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398868,AW,Primary,GGI-like,0.525501190964485,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398869,AW,Node,GGI-like,0.93888495580789,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398870,AX,Primary,GGI-like,-0.925094354155615,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398871,AX,Node,GGI-like,-0.444619749706601,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398872,AY,Primary,GGI-like,0.283645717109711,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398873,AY,Node,GGI-like,0.731690726183221,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398876,AZ,Primary,GGI-like,-1.0609706086189,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398877,AZ,Node,GGI-like,0.564869160800053,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398808,E,Primary,GGI-like,-1.15547673855189,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398809,E,Node,GGI-like,-0.372056235126907,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398810,F,Primary,GGI-like,-1.49112073826186,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398811,F,Node,GGI-like,-1.57569735395324,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398812,H,Primary,GGI-like,0.125010897695934,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398813,H,Node,GGI-like,0.135632125027344,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398814,J,Primary,GGI-like,0.743988772919276,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398815,J,Node,GGI-like,0.843701352797999,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398816,K,Primary,GGI-like,-0.212794469748479,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398817,K,Node,GGI-like,-0.242480895709444,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398818,L,Primary,GGI-like,0.175849240702699,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398819,L,Node,GGI-like,0.446696660871392,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398820,O,Primary,GGI-like,0.288825784780367,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398821,O,Node,GGI-like,0.813891232106395,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398822,P,Primary,GGI-like,0.0907969620377174,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398823,P,Node,GGI-like,0.311710584085932,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398824,Q,Primary,GGI-like,-0.366644276873627,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398825,Q,Node,GGI-like,-0.0849829505233989,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398826,R,Primary,GGI-like,-1.57770026354883,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398827,R,Node,GGI-like,-0.609620231046203,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398828,S,Primary,GGI-like,0.0560185528469791,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398829,S,Node,GGI-like,-0.216116975330599,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398830,T,Primary,GGI-like,0.505059920583496,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398831,T,Node,GGI-like,0.800666836214037,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398832,U,Primary,GGI-like,0.441410811736533,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398833,U,Node,GGI-like,-0.387139083682403,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398834,V,Primary,GGI-like,0.789192396814141,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398835,V,Node,GGI-like,0.800434362836398,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398836,W,Primary,GGI-like,0.26067540925845,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398837,W,Node,GGI-like,0.163461509232365,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398838,X,Primary,GGI-like,0.203680838798091,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398839,X,Node,GGI-like,0.0231375380507887,Intermediate,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398840,Y,Primary,GGI-like,-0.657022478067511,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398841,Y,Node,GGI-like,-0.590983606370035,Low,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398842,Z,Primary,GGI-like,1.21929182044985,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398843,Z,Node,GGI-like,1.72656199081029,High,-0.258282685617522,0.366681575114472,Primary-tertile research approximation; not a validated clinical assay
+GSM1398806,A,Primary,RS-like,-0.955708596333545,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398807,A,Node,RS-like,-1.54749280655529,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398844,AA,Primary,RS-like,-0.0395826152242376,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398845,AA,Node,RS-like,0.286800527159996,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398846,AC,Primary,RS-like,-0.27643910786275,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398847,AC,Node,RS-like,-0.898795924361218,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398848,AD,Primary,RS-like,0.480976180823698,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398849,AD,Node,RS-like,0.552186464620267,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398850,AF,Primary,RS-like,1.54043799088834,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398851,AF,Node,RS-like,1.52425572347908,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398852,AG,Primary,RS-like,-2.79130610477221,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398853,AG,Node,RS-like,-1.96004043876525,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398854,AH,Primary,RS-like,1.94467653705301,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398855,AH,Node,RS-like,1.97234700376819,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398856,AI,Primary,RS-like,-1.93438612044902,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398857,AI,Node,RS-like,-1.37680925727387,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398858,AJ,Primary,RS-like,1.21766425628912,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398859,AJ,Node,RS-like,0.561473008862598,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398860,AK,Primary,RS-like,0.0170711866579927,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398861,AK,Node,RS-like,1.10625522588038,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398874,AO,Primary,RS-like,1.10480237357249,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398875,AO,Node,RS-like,-0.0267863947179653,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398862,AQ,Primary,RS-like,0.418353872664835,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398863,AQ,Node,RS-like,0.630508921875303,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398864,AR,Primary,RS-like,0.881322546473473,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398865,AR,Node,RS-like,0.480651599739044,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398866,AS,Primary,RS-like,0.928954333550232,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398867,AS,Node,RS-like,0.858391105436834,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398868,AW,Primary,RS-like,0.23233008493517,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398869,AW,Node,RS-like,0.570207904841494,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398870,AX,Primary,RS-like,-1.69293321111664,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398871,AX,Node,RS-like,-1.24541091619609,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398872,AY,Primary,RS-like,-0.101873691961354,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398873,AY,Node,RS-like,0.273846512238804,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398876,AZ,Primary,RS-like,-1.42887367015207,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398877,AZ,Node,RS-like,1.06704165353294,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398808,E,Primary,RS-like,-2.66343202848201,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398809,E,Node,RS-like,-1.94738955725337,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398810,F,Primary,RS-like,-1.88597365894865,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398811,F,Node,RS-like,-1.99027902425944,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398812,H,Primary,RS-like,0.22820483955043,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398813,H,Node,RS-like,0.560923712951954,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398814,J,Primary,RS-like,1.21020914413867,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398815,J,Node,RS-like,1.19892853299986,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398816,K,Primary,RS-like,0.556858449140616,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398817,K,Node,RS-like,0.478141641737041,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398818,L,Primary,RS-like,0.738485120621374,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398819,L,Node,RS-like,1.30504281684129,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398820,O,Primary,RS-like,2.11623528374233,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398821,O,Node,RS-like,2.84725476544787,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398822,P,Primary,RS-like,1.38490502667572,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398823,P,Node,RS-like,2.04473902495246,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398824,Q,Primary,RS-like,-1.21728465385289,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398825,Q,Node,RS-like,-1.13792657615177,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398826,R,Primary,RS-like,-2.41571608093482,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398827,R,Node,RS-like,-0.197397917155039,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398828,S,Primary,RS-like,-0.18884843431406,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398829,S,Node,RS-like,-0.836156265017913,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398830,T,Primary,RS-like,0.252244693567446,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398831,T,Node,RS-like,0.357833062386691,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398832,U,Primary,RS-like,0.279463578440733,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398833,U,Node,RS-like,-0.684351462419873,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398834,V,Primary,RS-like,1.05614043068958,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398835,V,Node,RS-like,1.28554879987397,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398836,W,Primary,RS-like,0.221454841148502,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398837,W,Node,RS-like,0.0168505473064804,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398838,X,Primary,RS-like,0.503751588000457,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398839,X,Node,RS-like,0.149108263281257,Intermediate,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398840,Y,Primary,RS-like,-1.30769664391632,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398841,Y,Node,RS-like,-1.82925415494744,Low,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398842,Z,Primary,RS-like,1.58551225969634,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay
+GSM1398843,Z,Node,RS-like,1.92957848478223,High,-0.130865272745589,0.617400672967535,Primary-tertile research approximation; not a validated clinical assay

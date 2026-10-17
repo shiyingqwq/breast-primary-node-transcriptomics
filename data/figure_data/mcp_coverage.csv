@@ -1,0 +1,11 @@
+method,score,signature_genes_N,observed_genes_N,missing_genes
+MCP_COUNTER,T cells,16,12,CHRM3-AS2;MGC40069;PBX4;THEMIS
+MCP_COUNTER,CD8 T cells,1,0,CD8B
+MCP_COUNTER,Cytotoxic lymphocytes,7,5,EOMES;FGFBP2
+MCP_COUNTER,B lineage,9,9,
+MCP_COUNTER,NK cells,9,8,SH2D1B
+MCP_COUNTER,Monocytic lineage,7,7,
+MCP_COUNTER,Myeloid dendritic cells,6,5,WFDC21P
+MCP_COUNTER,Neutrophils,15,14,VNN3
+MCP_COUNTER,Endothelial cells,33,22,APLN;BCL6B;CLEC14A;ESAM;HECW2;HHIP;PEAR1;C;SHANK3;SHE;VEPH1
+MCP_COUNTER,Fibroblasts,8,8,

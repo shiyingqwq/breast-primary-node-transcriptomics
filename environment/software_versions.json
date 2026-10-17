@@ -1,0 +1,15 @@
+{
+  "R": "4.5.3",
+  "Bioconductor": "3.21",
+  "bulk_and_cellular_packages": {
+    "limma": "3.64.3",
+    "edgeR": "4.6.3",
+    "fgsea": "1.34.2",
+    "Matrix": "1.7.6",
+    "statmod": "1.5.2",
+    "jsonlite": "2.0.0",
+    "BiocManager": "1.30.27",
+    "BiocParallel": "1.42.2",
+    "BiocVersion": "3.21.1"
+  }
+}

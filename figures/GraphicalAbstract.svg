@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="900" viewBox="0 0 1800 900" role="img" aria-labelledby="svg-title svg-desc" version="1.1">
+  <title id="svg-title">Regional transcriptomic heterogeneity in breast cancer</title>
+  <desc id="svg-desc">Author-prepared schematic summary of paired primary breast tumor and regional node transcriptomics, selected independent cellular support and METABRIC nodal-burden context. Anatomical, cellular and expression-profile illustrations are schematic, not primary research images.</desc>
+  <style id="style1518">text{font-family:Arial,Helvetica,sans-serif}path,line{stroke-linecap:round;stroke-linejoin:round}</style>
+  <defs id="defs1652">
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFF8F2" id="stop1520" />
+      <stop offset=".52" stop-color="#F7D3BD" id="stop1522" />
+      <stop offset="1" stop-color="#FFF9F0" id="stop1524" />
+    </linearGradient>
+    <radialGradient id="fat">
+      <stop stop-color="#FFF4CE" id="stop1527" />
+      <stop offset=".7" stop-color="#FFE3AD" id="stop1529" />
+      <stop offset="1" stop-color="#F5CB95" id="stop1531" />
+    </radialGradient>
+    <radialGradient id="pink-cell" cx="35%" cy="30%">
+      <stop stop-color="#FFE5E0" id="stop1534" />
+      <stop offset=".55" stop-color="#F3B0AC" id="stop1536" />
+      <stop offset="1" stop-color="#D77F87" id="stop1538" />
+    </radialGradient>
+    <radialGradient id="pink-nucleus" cx="35%" cy="30%">
+      <stop stop-color="#E9A6BD" id="stop1541" />
+      <stop offset=".7" stop-color="#B7698B" id="stop1543" />
+      <stop offset="1" stop-color="#97536F" id="stop1545" />
+    </radialGradient>
+    <radialGradient id="blue-cell" cx="30%" cy="25%">
+      <stop stop-color="#E0F2FD" id="stop1548" />
+      <stop offset=".62" stop-color="#ACD3F0" id="stop1550" />
+      <stop offset="1" stop-color="#6FA5D6" id="stop1552" />
+    </radialGradient>
+    <radialGradient id="blue-nucleus" cx="35%" cy="30%">
+      <stop stop-color="#BFBDDF" id="stop1555" />
+      <stop offset=".7" stop-color="#8F91CB" id="stop1557" />
+      <stop offset="1" stop-color="#6D74AD" id="stop1559" />
+    </radialGradient>
+    <radialGradient id="node">
+      <stop stop-color="#C1D9B4" id="stop1562" />
+      <stop offset=".7" stop-color="#7CA569" id="stop1564" />
+      <stop offset="1" stop-color="#4F8057" id="stop1566" />
+    </radialGradient>
+    <linearGradient id="fibroblast" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#FFDEBC" id="stop1569" />
+      <stop offset=".5" stop-color="#E7AB86" id="stop1571" />
+      <stop offset="1" stop-color="#C48F75" id="stop1573" />
+    </linearGradient>
+    <linearGradient id="person" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#B9CCD9" id="stop1576" />
+      <stop offset=".65" stop-color="#99B7CD" id="stop1578" />
+      <stop offset="1" stop-color="#F1F6FA" id="stop1580" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F7FAFC" id="stop1583" />
+      <stop offset="1" stop-color="#EFF5F9" id="stop1585" />
+    </linearGradient>
+    <linearGradient id="primary-link">
+      <stop stop-color="#E4AD82" stop-opacity=".15" id="stop1588" />
+      <stop offset="1" stop-color="#DEAD8B" stop-opacity=".4" id="stop1590" />
+    </linearGradient>
+    <linearGradient id="node-link">
+      <stop stop-color="#7CB3DA" stop-opacity=".1" id="stop1593" />
+      <stop offset="1" stop-color="#95C9E8" stop-opacity=".5" id="stop1595" />
+    </linearGradient>
+    <clipPath id="breast-clip">
+      <path d="M78,-18 C98,69 126,101 215,145 C314,191 410,215 442,295 C475,378 395,441 300,477 C213,506 115,472 73,430 C48,394 43,318 47,240 C49,134 50,54 78,-18Z" id="path1598" />
+    </clipPath>
+    <clipPath id="primary-inset">
+      <circle cx="568" cy="188" r="94" id="circle1601" />
+    </clipPath>
+    <clipPath id="node-inset">
+      <circle cx="568" cy="395" r="94" id="circle1604" />
+    </clipPath>
+    <g id="tumor-cell">
+      <path d="M-28,-8 C-30,-23 -17,-31 -4,-29 C10,-35 28,-22 29,-8 C35,6 23,27 9,29 C-6,35 -29,22 -28,8 C-33,0 -30,-4 -28,-8Z" fill="url(#pink-cell)" stroke="#CB838B" stroke-width="1.3" id="path1607" />
+      <path d="M-24,-10 C-24,-23 -7,-28 7,-25 C21,-20 27,-8 25,7" fill="none" stroke="#FFE5DD" stroke-width="2.2" opacity=".85" id="path1609" />
+      <ellipse cx="-2" cy="0" rx="13.6" ry="16" fill="url(#pink-nucleus)" stroke="#A05C7B" stroke-width="1" id="ellipse1611" />
+      <ellipse cx="-3" cy="1" rx="6" ry="7" fill="#9E5273" opacity=".65" id="ellipse1613" />
+      <path d="M-10,-3 Q-7,-12 0,-12 M3,12 Q11,6 9,-2" fill="none" stroke="#E1A2B7" stroke-width="1.4" id="path1615" />
+      <circle cx="16" cy="12" r="2.5" fill="#D48E9A" id="circle1617" />
+      <circle cx="-15" cy="17" r="2" fill="#F8D0C5" id="circle1619" />
+      <circle cx="15" cy="-12" r="1.6" fill="#EBAEB1" id="circle1621" />
+    </g>
+    <g id="b-cell">
+      <circle r="29" fill="url(#blue-cell)" stroke="#6D9ECA" stroke-width="1.5" id="circle1624" />
+      <circle r="25.5" fill="none" stroke="#D8EDF9" stroke-width="1.3" id="circle1626" />
+      <ellipse cx="-2" cy="1" rx="18" ry="19" fill="url(#blue-nucleus)" stroke="#7B81B4" stroke-width="1.1" id="ellipse1628" />
+      <path d="M-14,-9 Q-3,-19 8,-9 M-12,12 Q1,20 12,10" fill="none" stroke="#CAC9E7" stroke-width="1.4" opacity=".8" id="path1630" />
+      <circle cx="-7" cy="-3" r="3.2" fill="#8789BC" opacity=".55" id="circle1632" />
+    </g>
+    <g id="receptor" fill="none" stroke="#227CAD" stroke-width="3.1" stroke-linecap="round">
+      <path d="M0,0 V-12 L-7,-21 M0,-12 L7,-21" id="path1635" />
+      <path d="M-3,-1 V-12 L-10,-19 M3,-1 V-12 L10,-19" stroke="#80B4D3" stroke-width="1.3" id="path1637" />
+    </g>
+    <g id="fibro">
+      <path d="M-63,5 C-32,8 -20,-13 1,-14 C20,-14 27,0 64,-8 C27,4 17,19 -2,16 C-20,15 -31,8 -63,5Z" fill="url(#fibroblast)" stroke="#CB9A80" stroke-width="1.2" id="path1640" />
+      <ellipse cx="0" cy="1" rx="14" ry="7" fill="#A88CAC" stroke="#95738E" stroke-width="1" id="ellipse1642" />
+      <path d="M-44,5 Q-20,-8 -10,-8 M14,10 Q31,-1 46,-4" fill="none" stroke="#FCE0C5" stroke-width="1.5" id="path1644" />
+    </g>
+    <g id="person-icon">
+      <circle cx="0" cy="0" r="10" fill="url(#person)" id="circle1647" />
+      <path d="M-8,9 Q-18,11 -19,25 L-23,68 Q0,77 23,68 L19,25 Q18,11 8,9Z" fill="url(#person)" id="path1649" />
+    </g>
+  </defs>
+  <g id="background">
+    <rect x="0" y="0" width="1800" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1" id="rect1654" />
+    <text x="335" y="51" font-size="44" fill="#102033" font-weight="700" text-anchor="start" id="text1656">Regional transcriptomic heterogeneity in breast cancer</text>
+    <path d="M710,94 V651 M1243,94 V651 M29,678 H1772" fill="none" stroke="#D5DEE5" stroke-width="1.7" id="path1658" />
+  </g>
+  <g id="paired-discovery">
+    <path d="M214,323 L500,120 L516,260 Z" fill="url(#primary-link)" stroke="none" stroke-width="1" id="path1661" />
+    <path d="M235,155 L500,335 L500,455 Z" fill="url(#node-link)" stroke="none" stroke-width="1" id="path1663" />
+    <path d="M78,-18 C98,69 126,101 215,145 C314,191 410,215 442,295 C475,378 395,441 300,477 C213,506 115,472 73,430 C48,394 43,318 47,240 C49,134 50,54 78,-18Z" fill="url(#skin)" stroke="#EDC0A8" stroke-width="2" id="path1665" />
+    <g clip-path="url(#breast-clip)" id="g2159">
+      <path d="M74,-18 C85,75 115,123 205,165 C303,213 382,225 416,301 C444,365 369,421 293,451 C211,481 129,457 88,414" fill="none" stroke="#F3AD96" stroke-width="4" opacity="0.65" id="path1667" />
+      <ellipse cx="208.54" cy="409.83" rx="12.933493848280897" ry="10.213312220285403" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1669" />
+      <ellipse cx="149.97" cy="370.51" rx="10.548732170380642" ry="13.797890114794553" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1671" />
+      <ellipse cx="152.56" cy="458.54" rx="8.95400138295567" ry="10.12387245110764" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1673" />
+      <ellipse cx="264.01" cy="455.21" rx="16.44277589183145" ry="9.170182401259694" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1675" />
+      <ellipse cx="293.0" cy="427.35" rx="9.749635211295574" ry="12.723867005805342" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1677" />
+      <ellipse cx="357.43" cy="459.29" rx="10.195979924366156" ry="12.16519111682734" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1679" />
+      <ellipse cx="229.73" cy="456.68" rx="15.701721933989615" ry="7.122325108057589" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1681" />
+      <ellipse cx="404.29" cy="417.13" rx="10.838199004119215" ry="13.752332518949409" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1683" />
+      <ellipse cx="123.66" cy="452.14" rx="13.960719109203758" ry="7.166381263324553" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1685" />
+      <ellipse cx="356.94" cy="264.92" rx="8.721328880748734" ry="8.154732880873524" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1687" />
+      <ellipse cx="96.34" cy="305.48" rx="10.869986724211511" ry="13.432603990932893" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1689" />
+      <ellipse cx="203.23" cy="202.01" rx="8.038498107517547" ry="11.946868469138657" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1691" />
+      <ellipse cx="103.87" cy="457.37" rx="15.507386288436741" ry="10.97906810906484" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1693" />
+      <ellipse cx="271.1" cy="253.97" rx="17.034526081325268" ry="9.167978819938224" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1695" />
+      <ellipse cx="117.14" cy="343.48" rx="16.652690454978995" ry="13.785658101740472" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1697" />
+      <ellipse cx="201.58" cy="241.78" rx="12.629723338754488" ry="7.752001738582184" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1699" />
+      <ellipse cx="280.67" cy="235.7" rx="10.969337499445384" ry="12.516336268607358" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1701" />
+      <ellipse cx="404.94" cy="356.11" rx="10.821031066093674" ry="13.632287238678034" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1703" />
+      <ellipse cx="279.49" cy="335.87" rx="12.039424412493599" ry="12.783146493168147" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1705" />
+      <ellipse cx="181.18" cy="218.21" rx="11.579357055314645" ry="9.219267951847813" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1707" />
+      <ellipse cx="124.11" cy="208.25" rx="14.96650728491332" ry="8.69913431769385" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1709" />
+      <ellipse cx="376.23" cy="365.14" rx="16.402969547005725" ry="11.68528270889994" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1711" />
+      <ellipse cx="86.21" cy="411.8" rx="8.275955987250935" ry="9.901160230922118" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1713" />
+      <ellipse cx="366.67" cy="334.92" rx="17.08783982940124" ry="10.572763772629047" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1715" />
+      <ellipse cx="343.28" cy="289.02" rx="11.417058328314468" ry="11.462649814854103" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1717" />
+      <ellipse cx="237.87" cy="275.89" rx="15.90234817934643" ry="9.757781262522164" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1719" />
+      <ellipse cx="404.03" cy="324.29" rx="12.140342701387109" ry="13.675362599213553" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1721" />
+      <ellipse cx="257.1" cy="286.51" rx="14.096335657457692" ry="10.52745956279477" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1723" />
+      <ellipse cx="78.07" cy="240.22" rx="10.926140660485252" ry="11.290717153412281" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1725" />
+      <ellipse cx="229.89" cy="294.53" rx="11.431674143435869" ry="12.504984924128514" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1727" />
+      <ellipse cx="193.52" cy="226.26" rx="10.043027411883745" ry="12.521220054879647" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1729" />
+      <ellipse cx="178.88" cy="270.61" rx="9.343813371280056" ry="7.2734949587702165" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1731" />
+      <ellipse cx="409.46" cy="178.59" rx="10.500590224846515" ry="8.63925211278551" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1733" />
+      <ellipse cx="161.53" cy="428.08" rx="8.577289144928365" ry="13.679613891913768" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1735" />
+      <ellipse cx="237.52" cy="313.24" rx="13.153349894341694" ry="13.174042579167" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1737" />
+      <ellipse cx="124.06" cy="313.28" rx="9.883796833002126" ry="11.900909930781246" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1739" />
+      <ellipse cx="146.28" cy="430.75" rx="13.672723369452193" ry="13.920562913976596" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1741" />
+      <ellipse cx="395.67" cy="367.06" rx="8.172763011150975" ry="9.609086115925248" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1743" />
+      <ellipse cx="307.23" cy="331.55" rx="14.034339554795697" ry="8.01432635028142" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1745" />
+      <ellipse cx="105.12" cy="315.33" rx="15.017531044021517" ry="7.170555071151986" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1747" />
+      <ellipse cx="349.0" cy="261.22" rx="11.260851074637943" ry="11.004074980627056" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1749" />
+      <ellipse cx="282.16" cy="223.86" rx="14.547118422501155" ry="12.843341098849272" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1751" />
+      <ellipse cx="181.61" cy="448.62" rx="16.10046653623013" ry="12.862677277857212" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1753" />
+      <ellipse cx="264.56" cy="346.65" rx="8.154821172091031" ry="10.398813740030244" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1755" />
+      <ellipse cx="424.75" cy="461.63" rx="8.515438888697043" ry="13.845006357075697" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1757" />
+      <ellipse cx="127.89" cy="297.23" rx="9.71514482856956" ry="8.459336842468188" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1759" />
+      <ellipse cx="287.65" cy="420.98" rx="11.63621872182012" ry="12.251990175541323" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1761" />
+      <ellipse cx="249.52" cy="223.14" rx="9.030678073619635" ry="12.673784961607089" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1763" />
+      <ellipse cx="228.72" cy="458.77" rx="11.029890051075677" ry="7.701093752444951" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1765" />
+      <ellipse cx="382.65" cy="404.07" rx="17.875019517850227" ry="9.227533192652768" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1767" />
+      <ellipse cx="378.52" cy="228.84" rx="16.673442847438785" ry="11.561300110020703" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1769" />
+      <ellipse cx="165.39" cy="217.49" rx="13.35733488800927" ry="11.668371194671169" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1771" />
+      <ellipse cx="244.55" cy="443.81" rx="10.03754981378398" ry="9.641319812422033" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1773" />
+      <ellipse cx="87.27" cy="206.93" rx="16.164230241997853" ry="12.56559080067765" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1775" />
+      <ellipse cx="331.7" cy="290.86" rx="13.348576949723785" ry="8.276969088047778" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1777" />
+      <ellipse cx="85.54" cy="390.68" rx="9.701908376367584" ry="12.262978043832675" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1779" />
+      <ellipse cx="389.47" cy="185.01" rx="11.02134093453599" ry="7.890879700065544" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1781" />
+      <ellipse cx="131.24" cy="453.82" rx="14.561763572063796" ry="11.4812454389272" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1783" />
+      <ellipse cx="201.79" cy="357.26" rx="13.038753732161638" ry="8.461645891642291" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1785" />
+      <ellipse cx="150.36" cy="237.61" rx="11.050424855038507" ry="10.498460026609909" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1787" />
+      <ellipse cx="281.49" cy="215.33" rx="10.919627670243022" ry="12.037416696764456" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1789" />
+      <ellipse cx="275.53" cy="196.7" rx="12.417470599705625" ry="11.376787731834462" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1791" />
+      <ellipse cx="379.14" cy="233.34" rx="9.528783715667677" ry="11.138108231545335" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1793" />
+      <ellipse cx="358.77" cy="179.34" rx="11.009260822174937" ry="11.539707972997299" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1795" />
+      <ellipse cx="186.09" cy="183.72" rx="16.97154071111847" ry="11.77527232590765" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1797" />
+      <ellipse cx="149.71" cy="194.89" rx="10.699451270738148" ry="11.108096525123448" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1799" />
+      <ellipse cx="321.38" cy="469.06" rx="8.109971058111334" ry="11.08453364851475" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1801" />
+      <ellipse cx="357.16" cy="211.25" rx="10.547019583006234" ry="13.45328735712332" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1803" />
+      <ellipse cx="290.79" cy="440.44" rx="10.193410113805424" ry="13.105958813410531" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1805" />
+      <ellipse cx="383.55" cy="310.95" rx="8.152455969695076" ry="13.192644038302948" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1807" />
+      <ellipse cx="352.22" cy="417.17" rx="14.480851338391528" ry="11.914290938272487" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1809" />
+      <ellipse cx="111.91" cy="186.85" rx="16.908469095462337" ry="11.475916375102175" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1811" />
+      <ellipse cx="286.35" cy="376.26" rx="9.919874082542654" ry="12.46160565859342" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1813" />
+      <ellipse cx="396.63" cy="437.2" rx="11.66853543156379" ry="8.234006316729802" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1815" />
+      <ellipse cx="270.46" cy="220.57" rx="16.50496551596622" ry="13.978725381254218" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1817" />
+      <ellipse cx="213.36" cy="354.45" rx="17.464572143418327" ry="10.854780936562529" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1819" />
+      <ellipse cx="295.4" cy="434.45" rx="13.065345918727566" ry="13.110661848255356" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1821" />
+      <ellipse cx="77.35" cy="369.58" rx="16.31635995013557" ry="10.35491939627092" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1823" />
+      <ellipse cx="160.61" cy="434.96" rx="14.911559221000445" ry="7.176882767529761" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1825" />
+      <ellipse cx="79.95" cy="427.17" rx="8.250646475237255" ry="11.659491842150056" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1827" />
+      <ellipse cx="221.14" cy="434.3" rx="9.517365798329552" ry="12.990579239647683" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1829" />
+      <ellipse cx="255.44" cy="353.64" rx="11.599130978173939" ry="9.080365564710373" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1831" />
+      <ellipse cx="215.84" cy="182.09" rx="12.23393111395557" ry="9.881359268220722" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1833" />
+      <ellipse cx="228.41" cy="447.56" rx="16.582905376352844" ry="8.230281716089236" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1835" />
+      <ellipse cx="289.27" cy="308.94" rx="15.559479154861094" ry="9.396201626289898" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1837" />
+      <ellipse cx="185.67" cy="327.01" rx="13.279831052667323" ry="7.644885176274484" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1839" />
+      <ellipse cx="262.74" cy="399.35" rx="14.342798858533477" ry="11.735493577383902" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1841" />
+      <ellipse cx="211.61" cy="305.9" rx="12.277534273099691" ry="13.095593538164586" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1843" />
+      <ellipse cx="247.4" cy="446.22" rx="9.870955308466705" ry="13.798983147358438" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1845" />
+      <ellipse cx="65.29" cy="202.01" rx="10.622738104833566" ry="10.632648344987608" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1847" />
+      <ellipse cx="256.65" cy="389.42" rx="15.746052242676317" ry="11.33293736202075" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1849" />
+      <ellipse cx="98.58" cy="430.4" rx="10.61397919867274" ry="13.56196662054838" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1851" />
+      <ellipse cx="297.76" cy="196.55" rx="12.107622499702348" ry="13.494809425394822" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1853" />
+      <ellipse cx="260.8" cy="308.05" rx="17.580423417837167" ry="13.411383511474" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1855" />
+      <ellipse cx="151.09" cy="248.44" rx="16.117953566190366" ry="9.870227656587028" fill="url(#fat)" stroke="#EBC999" stroke-width="0.65" opacity="0.75" id="ellipse1857" />
+      <g transform="translate(104 214) rotate(-18)" id="g1881">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1859" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1861" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1863" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1865" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1867" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1869" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1871" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1873" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1875" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1877" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1879" />
+      </g>
+      <g transform="translate(139 258) rotate(20)" id="g1905">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1883" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1885" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1887" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1889" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1891" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1893" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1895" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1897" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1899" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1901" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1903" />
+      </g>
+      <g transform="translate(118 340) rotate(-5)" id="g1929">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1907" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1909" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1911" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1913" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1915" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1917" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1919" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1921" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1923" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1925" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1927" />
+      </g>
+      <g transform="translate(110 398) rotate(-25)" id="g1953">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1931" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1933" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1935" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1937" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1939" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1941" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1943" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1945" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1947" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1949" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1951" />
+      </g>
+      <g transform="translate(161 429) rotate(8)" id="g1977">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1955" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1957" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1959" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1961" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1963" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1965" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1967" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1969" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1971" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1973" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1975" />
+      </g>
+      <g transform="translate(272 404) rotate(-28)" id="g2001">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse1979" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse1981" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse1983" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse1985" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse1987" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse1989" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse1991" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse1993" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse1995" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse1997" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path1999" />
+      </g>
+      <g transform="translate(331 350) rotate(-35)" id="g2025">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse2003" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse2005" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse2007" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse2009" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse2011" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse2013" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse2015" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse2017" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse2019" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse2021" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path2023" />
+      </g>
+      <g transform="translate(286 247) rotate(10)" id="g2049">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse2027" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse2029" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse2031" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse2033" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse2035" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse2037" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse2039" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse2041" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse2043" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse2045" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path2047" />
+      </g>
+      <g transform="translate(353 289) rotate(30)" id="g2073">
+        <ellipse cx="6.0" cy="0.0" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(0)" id="ellipse2051" />
+        <ellipse cx="-7.0" cy="6.42" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(23)" id="ellipse2053" />
+        <ellipse cx="0.94" cy="-10.91" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(46)" id="ellipse2055" />
+        <ellipse cx="7.37" cy="9.55" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(69)" id="ellipse2057" />
+        <ellipse cx="-12.81" cy="-2.22" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(92)" id="ellipse2059" />
+        <ellipse cx="11.63" cy="-7.48" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(115)" id="ellipse2061" />
+        <ellipse cx="-3.7" cy="14.1" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(138)" id="ellipse2063" />
+        <ellipse cx="-7.12" cy="-13.49" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(161)" id="ellipse2065" />
+        <ellipse cx="14.98" cy="5.34" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(184)" id="ellipse2067" />
+        <ellipse cx="-15.2" cy="6.43" rx="9" ry="5" fill="#EBC0CC" stroke="#BB8FA8" stroke-width="0.8" transform="rotate(207)" id="ellipse2069" />
+        <path d="M-25,0 Q0,-6 30,2 L60,12" fill="none" stroke="#D99CAE" stroke-width="2" id="path2071" />
+      </g>
+      <path d="M205,320 C163,280 125,210 97,142 C80,103 75,45 70,0" fill="none" stroke="#75A76E" stroke-width="3" opacity="0.9" id="path2075" />
+      <path d="M205,320 C163,280 125,210 97,142 C80,103 75,45 70,0" fill="none" stroke="#BDD2A7" stroke-width="1" transform="translate(3 0)" opacity="0.8" id="path2077" />
+      <path d="M205,320 C236,276 255,234 230,180 C213,143 161,119 120,81" fill="none" stroke="#75A76E" stroke-width="3" opacity="0.9" id="path2079" />
+      <path d="M205,320 C236,276 255,234 230,180 C213,143 161,119 120,81" fill="none" stroke="#BDD2A7" stroke-width="1" transform="translate(3 0)" opacity="0.8" id="path2081" />
+      <path d="M205,320 C280,286 315,254 273,215 C244,193 225,176 220,145" fill="none" stroke="#75A76E" stroke-width="3" opacity="0.9" id="path2083" />
+      <path d="M205,320 C280,286 315,254 273,215 C244,193 225,176 220,145" fill="none" stroke="#BDD2A7" stroke-width="1" transform="translate(3 0)" opacity="0.8" id="path2085" />
+      <path d="M205,320 C297,328 337,311 328,267 C317,229 273,199 250,169" fill="none" stroke="#75A76E" stroke-width="3" opacity="0.9" id="path2087" />
+      <path d="M205,320 C297,328 337,311 328,267 C317,229 273,199 250,169" fill="none" stroke="#BDD2A7" stroke-width="1" transform="translate(3 0)" opacity="0.8" id="path2089" />
+      <path d="M111,25 C123,90 176,120 220,145" fill="none" stroke="#75A76E" stroke-width="3" opacity="0.9" id="path2091" />
+      <path d="M111,25 C123,90 176,120 220,145" fill="none" stroke="#BDD2A7" stroke-width="1" transform="translate(3 0)" opacity="0.8" id="path2093" />
+      <ellipse cx="130" cy="105" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(38 130 105)" id="ellipse2095" />
+      <ellipse cx="168" cy="128" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(-5 168 128)" id="ellipse2097" />
+      <ellipse cx="192" cy="142" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(30 192 142)" id="ellipse2099" />
+      <ellipse cx="263" cy="215" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(50 263 215)" id="ellipse2101" />
+      <ellipse cx="289" cy="250" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(25 289 250)" id="ellipse2103" />
+      <ellipse cx="244" cy="269" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(60 244 269)" id="ellipse2105" />
+      <ellipse cx="273" cy="293" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(-20 273 293)" id="ellipse2107" />
+      <ellipse cx="321" cy="281" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(60 321 281)" id="ellipse2109" />
+      <ellipse cx="232" cy="218" rx="12" ry="7" fill="url(#node)" stroke="#729565" stroke-width="0.9" transform="rotate(70 232 218)" id="ellipse2111" />
+      <use xlink:href="#tumor-cell" transform="translate(213.0 320.0) rotate(0) scale(0.45)" opacity="1" id="use2113" />
+      <use xlink:href="#tumor-cell" transform="translate(193.94923174335332 330.1430035461835) rotate(18) scale(0.45)" opacity="1" id="use2115" />
+      <use xlink:href="#tumor-cell" transform="translate(206.53052281568955 302.16605991665216) rotate(36) scale(0.45)" opacity="1" id="use2117" />
+      <use xlink:href="#tumor-cell" transform="translate(217.29053921480875 335.9352545086974) rotate(54) scale(0.45)" opacity="1" id="use2119" />
+      <use xlink:href="#tumor-cell" transform="translate(183.32169976152178 316.25149379480365) rotate(72) scale(0.45)" opacity="1" id="use2121" />
+      <use xlink:href="#tumor-cell" transform="translate(224.8955297580922 307.20908489884937) rotate(90) scale(0.45)" opacity="1" id="use2123" />
+      <use xlink:href="#tumor-cell" transform="translate(198.61233529873036 344.3216074891416) rotate(108) scale(0.45)" opacity="1" id="use2125" />
+      <use xlink:href="#tumor-cell" transform="translate(192.6182155785956 296.54758943346974) rotate(126) scale(0.45)" opacity="1" id="use2127" />
+      <use xlink:href="#tumor-cell" transform="translate(231.18489106238096 329.33463004209676) rotate(144) scale(0.45)" opacity="1" id="use2129" />
+      <use xlink:href="#tumor-cell" transform="translate(178.2909093472523 331.2971003582028) rotate(162) scale(0.45)" opacity="1" id="use2131" />
+      <use xlink:href="#tumor-cell" transform="translate(217.50949546775615 292.58307783355235) rotate(180) scale(0.45)" opacity="1" id="use2133" />
+      <use xlink:href="#tumor-cell" transform="translate(214.65762011447163 349.6848842046648) rotate(198) scale(0.45)" opacity="1" id="use2135" />
+      <use xlink:href="#tumor-cell" transform="translate(176.91301934923868 304.1538364636993) rotate(216) scale(0.45)" opacity="1" id="use2137" />
+      <use xlink:href="#tumor-cell" transform="translate(237.37167570113246 312.45703273554255) rotate(234) scale(0.45)" opacity="1" id="use2139" />
+      <use xlink:href="#tumor-cell" transform="translate(185.71437334226388 348.2334948551733) rotate(252) scale(0.45)" opacity="1" id="use2141" />
+      <use xlink:href="#tumor-cell" transform="translate(199.98527336658515 285.24907696812426) rotate(270) scale(0.45)" opacity="1" id="use2143" />
+      <use xlink:href="#tumor-cell" transform="translate(232.88163288441666 342.77311018940134) rotate(288) scale(0.45)" opacity="1" id="use2145" />
+      <use xlink:href="#tumor-cell" transform="translate(168.1996148675989 322.1259078475163) rotate(306) scale(0.45)" opacity="1" id="use2147" />
+      <use xlink:href="#tumor-cell" transform="translate(231.2567502347505 292.94895890973345) rotate(324) scale(0.45)" opacity="1" id="use2149" />
+      <use xlink:href="#tumor-cell" transform="translate(203.92539531435384 358.4972973914552) rotate(342) scale(0.45)" opacity="1" id="use2151" />
+      <use xlink:href="#tumor-cell" transform="translate(179.24030568037824 290.3130099956294) rotate(360) scale(0.45)" opacity="1" id="use2153" />
+      <use xlink:href="#tumor-cell" transform="translate(244.82007963892454 324.5397946412544) rotate(378) scale(0.45)" opacity="1" id="use2155" />
+      <use xlink:href="#tumor-cell" transform="translate(171.98364974604536 344.02596888802645) rotate(396) scale(0.45)" opacity="1" id="use2157" />
+    </g>
+    <ellipse cx="226" cy="153" rx="41" ry="44" fill="#C7E2ED" stroke="#3D89B6" stroke-width="2.5" transform="rotate(-15 226 153)" id="ellipse2161" />
+    <use xlink:href="#tumor-cell" transform="translate(229.0 153.0) rotate(0) scale(0.18000000000000002)" opacity="1" id="use2163" />
+    <use xlink:href="#tumor-cell" transform="translate(219.95891335303315 158.5448419385803) rotate(17) scale(0.18000000000000002)" opacity="1" id="use2165" />
+    <use xlink:href="#tumor-cell" transform="translate(226.88532644888753 142.68400948890798) rotate(34) scale(0.18000000000000002)" opacity="1" id="use2167" />
+    <use xlink:href="#tumor-cell" transform="translate(233.33282494733612 162.5073478682477) rotate(51) scale(0.18000000000000002)" opacity="1" id="use2169" />
+    <use xlink:href="#tumor-cell" transform="translate(212.79594440019963 150.71681894774406) rotate(68) scale(0.18000000000000002)" opacity="1" id="use2171" />
+    <use xlink:href="#tumor-cell" transform="translate(238.30412103777243 145.08963171616898) rotate(85) scale(0.18000000000000002)" opacity="1" id="use2173" />
+    <use xlink:href="#tumor-cell" transform="translate(222.0024185951948 168.22115051127184) rotate(102) scale(0.18000000000000002)" opacity="1" id="use2175" />
+    <use xlink:href="#tumor-cell" transform="translate(218.17606478955057 138.18063838325332) rotate(119) scale(0.18000000000000002)" opacity="1" id="use2177" />
+    <use xlink:href="#tumor-cell" transform="translate(242.67964797377232 158.9461138370463) rotate(136) scale(0.18000000000000002)" opacity="1" id="use2179" />
+    <use xlink:href="#tumor-cell" transform="translate(208.8693418572032 160.2457264366404) rotate(153) scale(0.18000000000000002)" opacity="1" id="use2181" />
+    <use xlink:href="#tumor-cell" transform="translate(234.071181687909 135.31048081043423) rotate(170) scale(0.18000000000000002)" opacity="1" id="use2183" />
+    <use xlink:href="#tumor-cell" transform="translate(232.2637805136101 172.2531490187036) rotate(187) scale(0.18000000000000002)" opacity="1" id="use2185" />
+    <use xlink:href="#tumor-cell" transform="translate(207.69846408610803 142.67460637143452) rotate(204) scale(0.18000000000000002)" opacity="1" id="use2187" />
+    <use xlink:href="#tumor-cell" transform="translate(247.18145087385398 148.06448192456082) rotate(221) scale(0.18000000000000002)" opacity="1" id="use2189" />
+    <use xlink:href="#tumor-cell" transform="translate(213.33344046353454 171.54340799250565) rotate(238) scale(0.18000000000000002)" opacity="1" id="use2191" />
+    <use xlink:href="#tumor-cell" transform="translate(222.69508930512612 130.09771527334925) rotate(255) scale(0.18000000000000002)" opacity="1" id="use2193" />
+    <use xlink:href="#tumor-cell" transform="translate(244.4328572958088 168.0555561807709) rotate(272) scale(0.18000000000000002)" opacity="1" id="use2195" />
+    <path d="M264,145 L308,120" fill="none" stroke="#0875AD" stroke-width="3" id="path2197" />
+    <circle cx="264" cy="145" r="7" fill="#0875AD" stroke="white" stroke-width="2" id="circle2199" />
+    <text x="318" y="121" font-size="23" fill="#0875AD" font-weight="700" text-anchor="start" id="text2201">Regional</text>
+    <text x="318" y="149" font-size="23" fill="#0875AD" font-weight="700" text-anchor="start" id="text2203">node</text>
+    <path d="M197,328 L128,341" fill="none" stroke="#AD4F18" stroke-width="2.5" id="path2205" />
+    <circle cx="205" cy="326" r="7" fill="#AD4F18" stroke="white" stroke-width="2" id="circle2207" />
+    <text x="75" y="315" font-size="23" fill="#AD4F18" font-weight="700" text-anchor="start" id="text2209">Primary</text>
+    <text x="75" y="343" font-size="23" fill="#AD4F18" font-weight="700" text-anchor="start" id="text2211">tumor</text>
+    <circle cx="568" cy="188" r="95" fill="#FFF8F2" stroke="#AD4F18" stroke-width="3" id="circle2213" />
+    <g clip-path="url(#primary-inset)" id="g2329">
+      <path d="M474,106.0 C520.0,86.6 542.0,125.4 584.0,106.0 S640.0,86.6 674.0,114.7" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2215" />
+      <path d="M474,106.0 C520.0,86.6 542.0,125.4 584.0,106.0 S640.0,86.6 674.0,114.7" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2217" />
+      <path d="M474,115.1 C520.0,97.1 542.0,133.1 584.0,115.1 S640.0,97.1 674.0,123.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2219" />
+      <path d="M474,115.1 C520.0,97.1 542.0,133.1 584.0,115.1 S640.0,97.1 674.0,123.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2221" />
+      <path d="M474,124.2 C520.0,110.0 542.0,138.5 584.0,124.2 S640.0,110.0 674.0,130.6" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2223" />
+      <path d="M474,124.2 C520.0,110.0 542.0,138.5 584.0,124.2 S640.0,110.0 674.0,130.6" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2225" />
+      <path d="M474,133.4 C520.0,107.5 542.0,159.2 584.0,133.4 S640.0,107.5 674.0,145.0" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2227" />
+      <path d="M474,133.4 C520.0,107.5 542.0,159.2 584.0,133.4 S640.0,107.5 674.0,145.0" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2229" />
+      <path d="M474,142.5 C520.0,130.4 542.0,154.6 584.0,142.5 S640.0,130.4 674.0,147.9" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2231" />
+      <path d="M474,142.5 C520.0,130.4 542.0,154.6 584.0,142.5 S640.0,130.4 674.0,147.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2233" />
+      <path d="M474,151.6 C520.0,131.5 542.0,171.6 584.0,151.6 S640.0,131.5 674.0,160.6" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2235" />
+      <path d="M474,151.6 C520.0,131.5 542.0,171.6 584.0,151.6 S640.0,131.5 674.0,160.6" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2237" />
+      <path d="M474,160.7 C520.0,134.3 542.0,187.1 584.0,160.7 S640.0,134.3 674.0,172.6" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2239" />
+      <path d="M474,160.7 C520.0,134.3 542.0,187.1 584.0,160.7 S640.0,134.3 674.0,172.6" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2241" />
+      <path d="M474,169.8 C520.0,156.5 542.0,183.1 584.0,169.8 S640.0,156.5 674.0,175.8" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2243" />
+      <path d="M474,169.8 C520.0,156.5 542.0,183.1 584.0,169.8 S640.0,156.5 674.0,175.8" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2245" />
+      <path d="M474,178.9 C520.0,158.1 542.0,199.8 584.0,178.9 S640.0,158.1 674.0,188.3" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2247" />
+      <path d="M474,178.9 C520.0,158.1 542.0,199.8 584.0,178.9 S640.0,158.1 674.0,188.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2249" />
+      <path d="M474,188.1 C520.0,166.2 542.0,209.9 584.0,188.1 S640.0,166.2 674.0,197.9" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2251" />
+      <path d="M474,188.1 C520.0,166.2 542.0,209.9 584.0,188.1 S640.0,166.2 674.0,197.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2253" />
+      <path d="M474,197.2 C520.0,184.5 542.0,209.8 584.0,197.2 S640.0,184.5 674.0,202.9" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2255" />
+      <path d="M474,197.2 C520.0,184.5 542.0,209.8 584.0,197.2 S640.0,184.5 674.0,202.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2257" />
+      <path d="M474,206.3 C520.0,188.2 542.0,224.4 584.0,206.3 S640.0,188.2 674.0,214.4" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2259" />
+      <path d="M474,206.3 C520.0,188.2 542.0,224.4 584.0,206.3 S640.0,188.2 674.0,214.4" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2261" />
+      <path d="M474,215.4 C520.0,192.2 542.0,238.7 584.0,215.4 S640.0,192.2 674.0,225.9" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2263" />
+      <path d="M474,215.4 C520.0,192.2 542.0,238.7 584.0,215.4 S640.0,192.2 674.0,225.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2265" />
+      <path d="M474,224.5 C520.0,205.3 542.0,243.8 584.0,224.5 S640.0,205.3 674.0,233.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2267" />
+      <path d="M474,224.5 C520.0,205.3 542.0,243.8 584.0,224.5 S640.0,205.3 674.0,233.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2269" />
+      <path d="M474,233.6 C520.0,210.0 542.0,257.2 584.0,233.6 S640.0,210.0 674.0,244.3" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2271" />
+      <path d="M474,233.6 C520.0,210.0 542.0,257.2 584.0,233.6 S640.0,210.0 674.0,244.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2273" />
+      <path d="M474,242.8 C520.0,228.3 542.0,257.3 584.0,242.8 S640.0,228.3 674.0,249.3" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2275" />
+      <path d="M474,242.8 C520.0,228.3 542.0,257.3 584.0,242.8 S640.0,228.3 674.0,249.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2277" />
+      <path d="M474,251.9 C520.0,236.1 542.0,267.7 584.0,251.9 S640.0,236.1 674.0,259.0" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2279" />
+      <path d="M474,251.9 C520.0,236.1 542.0,267.7 584.0,251.9 S640.0,236.1 674.0,259.0" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2281" />
+      <path d="M474,261.0 C520.0,247.2 542.0,274.8 584.0,261.0 S640.0,247.2 674.0,267.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2283" />
+      <path d="M474,261.0 C520.0,247.2 542.0,274.8 584.0,261.0 S640.0,247.2 674.0,267.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2285" />
+      <use xlink:href="#fibro" transform="translate(618 137) rotate(22) scale(0.56)" opacity="1" id="use2287" />
+      <use xlink:href="#fibro" transform="translate(604 234) rotate(-35) scale(0.65)" opacity="1" id="use2289" />
+      <use xlink:href="#fibro" transform="translate(517 261) rotate(25) scale(0.55)" opacity="1" id="use2291" />
+      <use xlink:href="#fibro" transform="translate(644 200) rotate(20) scale(0.57)" opacity="1" id="use2293" />
+      <use xlink:href="#tumor-cell" transform="translate(551.0 185.0) rotate(0) scale(0.6333333333333333)" opacity="1" id="use2295" />
+      <use xlink:href="#tumor-cell" transform="translate(529.739078092024 197.17160425542016) rotate(34) scale(0.6333333333333333)" opacity="1" id="use2297" />
+      <use xlink:href="#tumor-cell" transform="translate(544.8932960890922 162.93895741587167) rotate(68) scale(0.6333333333333333)" opacity="1" id="use2299" />
+      <use xlink:href="#tumor-cell" transform="translate(558.4639831858178 205.04977189994347) rotate(102) scale(0.6333333333333333)" opacity="1" id="use2301" />
+      <use xlink:href="#tumor-cell" transform="translate(515.4094360601187 180.22917392065924) rotate(136) scale(0.6333333333333333)" opacity="1" id="use2303" />
+      <use xlink:href="#tumor-cell" transform="translate(568.5382063155538 168.58138572886932) rotate(170) scale(0.6333333333333333)" opacity="1" id="use2305" />
+      <use xlink:href="#tumor-cell" transform="translate(534.7456862014537 216.42904170604695) rotate(204) scale(0.6333333333333333)" opacity="1" id="use2307" />
+      <use xlink:href="#tumor-cell" transform="translate(526.912468721404 154.52851255467613) rotate(238) scale(0.6333333333333333)" opacity="1" id="use2309" />
+      <use xlink:href="#tumor-cell" transform="translate(577.1774896938911 197.1839048823997) rotate(272) scale(0.6333333333333333)" opacity="1" id="use2311" />
+      <use xlink:href="#tumor-cell" transform="translate(508.00188121364096 199.80309702109332) rotate(306) scale(0.6333333333333333)" opacity="1" id="use2313" />
+      <use xlink:href="#tumor-cell" transform="translate(559.4475003852324 148.9521962291082) rotate(340) scale(0.6333333333333333)" opacity="1" id="use2315" />
+      <use xlink:href="#tumor-cell" transform="translate(555.7358798861414 224.14661326325233) rotate(374) scale(0.6333333333333333)" opacity="1" id="use2317" />
+      <use xlink:href="#tumor-cell" transform="translate(505.8618525494059 164.0473328103563) rotate(408) scale(0.6333333333333333)" opacity="1" id="use2319" />
+      <use xlink:href="#tumor-cell" transform="translate(585.9061290827976 175.00238572435697) rotate(442) scale(0.6333333333333333)" opacity="1" id="use2321" />
+      <use xlink:href="#tumor-cell" transform="translate(517.38297582015 222.50244330777412) rotate(476) scale(0.6333333333333333)" opacity="1" id="use2323" />
+      <use xlink:href="#tumor-cell" transform="translate(536.3257919599715 138.7492456014866) rotate(510) scale(0.6333333333333333)" opacity="1" id="use2325" />
+      <use xlink:href="#tumor-cell" transform="translate(580.1755105125555 215.3641469192018) rotate(544) scale(0.6333333333333333)" opacity="1" id="use2327" />
+    </g>
+    <circle cx="568" cy="188" r="91" fill="none" stroke="#FFFFFF" stroke-width="2" id="circle2331" />
+    <circle cx="568" cy="395" r="95" fill="#F1F8FC" stroke="#0875AD" stroke-width="3" id="circle2333" />
+    <g clip-path="url(#node-inset)" id="g2405">
+      <use xlink:href="#b-cell" transform="translate(588.0 395.0) rotate(0) scale(0.5876786573785768)" opacity="1" id="use2335" />
+      <use xlink:href="#b-cell" transform="translate(542.9515919516009 417.99080803801587) rotate(21) scale(0.4036485821656457)" opacity="1" id="use2337" />
+      <use xlink:href="#b-cell" transform="translate(571.4030715535874 355.3467693758743) rotate(42) scale(0.4466296873925426)" opacity="1" id="use2339" />
+      <use xlink:href="#b-cell" transform="translate(595.0239967375113 430.0378659819566) rotate(63) scale(0.4813478237661775)" opacity="1" id="use2341" />
+      <use xlink:href="#b-cell" transform="translate(520.7018903887748 386.8214410068444) rotate(84) scale(0.5694021256700722)" opacity="1" id="use2343" />
+      <use xlink:href="#b-cell" transform="translate(611.1557017448587 367.25502794543337) rotate(105) scale(0.6218734770990046)" opacity="1" id="use2345" />
+      <use xlink:href="#b-cell" transform="translate(554.208595526982 447.51201213646453) rotate(126) scale(0.44721740929040643)" opacity="1" id="use2347" />
+      <use xlink:href="#b-cell" transform="matrix(-0.33729575,0.21904242,-0.21904242,-0.33729575,539.36891,348.5579)" opacity="1" id="use2349" x="0" y="0" width="100%" height="100%" />
+      <use xlink:href="#b-cell" transform="translate(624.137529252524 415.0124211248885) rotate(168) scale(0.5796066018475156)" opacity="1" id="use2351" />
+      <use xlink:href="#b-cell" transform="translate(510.89780619067733 419.1524214554681) rotate(189) scale(0.5058583052747133)" opacity="1" id="use2353" />
+      <use xlink:href="#b-cell" transform="translate(594.6793995990014 336.52705645573246) rotate(210) scale(0.5534812930084804)" opacity="1" id="use2355" />
+      <use xlink:href="#b-cell" transform="translate(588.5527472192309 458.1735266099766) rotate(231) scale(0.5112518221303606)" opacity="1" id="use2357" />
+      <use xlink:href="#b-cell" transform="translate(508.34224297290154 361.34217875481494) rotate(252) scale(0.45639102901993944)" opacity="1" id="use2359" />
+      <use xlink:href="#b-cell" transform="translate(636.6389936408884 379.00633668523955) rotate(273) scale(0.5063038733904234)" opacity="1" id="use2361" />
+      <use xlink:href="#b-cell" transform="translate(527.1725637981259 454.7699639432324) rotate(294) scale(0.45039847723448434)" opacity="1" id="use2363" />
+      <use xlink:href="#b-cell" transform="translate(557.3992450575121 321.5391623480547) rotate(315) scale(0.5692345307109358)" opacity="1" id="use2365" />
+      <use xlink:href="#b-cell" transform="translate(626.8612249782129 443.0765659554029) rotate(336) scale(0.44847312234654163)" opacity="1" id="use2367" />
+      <use xlink:href="#b-cell" transform="translate(490.4058875053363 399.4825056063946) rotate(357) scale(0.4205909282332714)" opacity="1" id="use2369" />
+      <use xlink:href="#b-cell" transform="translate(623.2994745336789 338.0276654762524) rotate(378) scale(0.6101308649047514)" opacity="1" id="use2371" />
+      <use xlink:href="#b-cell" transform="translate(565.739179024935 475.9930373359432) rotate(399) scale(0.6142649666815866)" opacity="1" id="use2373" />
+      <use xlink:href="#b-cell" transform="translate(513.8590898256514 332.6048240623294) rotate(420) scale(0.4139551021702125)" opacity="1" id="use2375" />
+      <use xlink:href="#b-cell" transform="translate(651.6144144768559 404.53268487194583) rotate(441) scale(0.5719489837103624)" opacity="1" id="use2377" />
+      <use xlink:href="#b-cell" transform="translate(498.7330112675962 445.4055264573853) rotate(462) scale(0.5029657427348758)" opacity="1" id="use2379" />
+      <use xlink:href="#b-cell" transform="translate(585.2379401951233 309.58033557263013) rotate(483) scale(0.4267546592064219)" opacity="1" id="use2381" />
+      <use xlink:href="#b-cell" transform="translate(613.8080337117415 470.82250694471344) rotate(504) scale(0.6047148594402038)" opacity="1" id="use2383" />
+      <use xlink:href="#tumor-cell" transform="translate(581.0 399.0) rotate(0) scale(0.5666666666666667)" opacity="1" id="use2385" />
+      <use xlink:href="#tumor-cell" transform="translate(565.6859496271297 408.46680330977125) rotate(25) scale(0.5666666666666667)" opacity="1" id="use2387" />
+      <use xlink:href="#tumor-cell" transform="translate(577.5158522229684 381.337004425871) rotate(50) scale(0.5666666666666667)" opacity="1" id="use2389" />
+      <use xlink:href="#tumor-cell" transform="translate(588.5739797978945 415.3027483794402) rotate(75) scale(0.5666666666666667)" opacity="1" id="use2391" />
+      <use xlink:href="#tumor-cell" transform="translate(553.3363224779546 395.08110714911294) rotate(100) scale(0.5666666666666667)" opacity="1" id="use2393" />
+      <use xlink:href="#tumor-cell" transform="translate(597.1338324582275 385.41297517472833) rotate(125) scale(0.5666666666666667)" opacity="1" id="use2395" />
+      <use xlink:href="#tumor-cell" transform="translate(569.1299588700717 425.1582990984425) rotate(150) scale(0.5666666666666667)" opacity="1" id="use2397" />
+      <use xlink:href="#tumor-cell" transform="translate(562.5483583317853 373.52116654111177) rotate(175) scale(0.5666666666666667)" opacity="1" id="use2399" />
+      <use xlink:href="#tumor-cell" transform="translate(604.6874798042328 409.2267758217775) rotate(200) scale(0.5666666666666667)" opacity="1" id="use2401" />
+      <use xlink:href="#tumor-cell" transform="translate(546.5278999693819 411.46576591249965) rotate(225) scale(0.5666666666666667)" opacity="1" id="use2403" />
+    </g>
+    <circle cx="568" cy="395" r="91" fill="none" stroke="#FFFFFF" stroke-width="2" id="circle2407" />
+    <text x="75" y="507" font-size="29" fill="#102033" font-weight="700" text-anchor="start" id="text2409">36 matched pairs · 72 specimens</text>
+    <text x="75" y="542" font-size="24" fill="#53616F" font-weight="400" text-anchor="start" id="text2411">Paired bulk transcriptomics</text>
+    <text x="75" y="586" font-size="30" fill="#102033" font-weight="700" text-anchor="start" id="text2413">890 differential genes</text>
+    <rect x="75" y="602" width="584" height="20" rx="3" fill="#DCE8EE" stroke="none" stroke-width="1" id="rect2415" />
+    <rect x="75" y="602" width="368.7730337078652" height="20" rx="3" fill="#BE6C3E" stroke="none" stroke-width="1" id="rect2417" />
+    <rect x="443.7730337078652" y="602" width="215.22696629213482" height="20" rx="3" fill="#2798C6" stroke="none" stroke-width="1" id="rect2419" />
+    <path d="M443.7730337078652,602 V622" fill="none" stroke="white" stroke-width="2" id="path2421" />
+    <text x="77" y="653" font-size="24" fill="#AD4F18" font-weight="600" text-anchor="start" id="text2423">562 lower in nodes</text>
+    <text x="441" y="653" font-size="24" fill="#0875AD" font-weight="600" text-anchor="start" id="text2425">328 higher in nodes</text>
+  </g>
+  <g id="regional-programs">
+    <text x="742" y="120" font-size="34" fill="#102033" font-weight="700" text-anchor="start" id="text2428">Node versus primary</text>
+    <path d="M750,166.0 C807.5,147.3 835.0,184.7 887.5,166.0 S957.5,147.3 1000.0,174.4" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2430" />
+    <path d="M750,166.0 C807.5,147.3 835.0,184.7 887.5,166.0 S957.5,147.3 1000.0,174.4" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2432" />
+    <path d="M750,173.8 C807.5,152.7 835.0,194.8 887.5,173.8 S957.5,152.7 1000.0,183.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2434" />
+    <path d="M750,173.8 C807.5,152.7 835.0,194.8 887.5,173.8 S957.5,152.7 1000.0,183.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2436" />
+    <path d="M750,181.6 C807.5,160.6 835.0,202.5 887.5,181.6 S957.5,160.6 1000.0,191.0" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2438" />
+    <path d="M750,181.6 C807.5,160.6 835.0,202.5 887.5,181.6 S957.5,160.6 1000.0,191.0" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2440" />
+    <path d="M750,189.3 C807.5,167.9 835.0,210.8 887.5,189.3 S957.5,167.9 1000.0,199.0" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2442" />
+    <path d="M750,189.3 C807.5,167.9 835.0,210.8 887.5,189.3 S957.5,167.9 1000.0,199.0" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2444" />
+    <path d="M750,197.1 C807.5,172.3 835.0,221.9 887.5,197.1 S957.5,172.3 1000.0,208.3" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2446" />
+    <path d="M750,197.1 C807.5,172.3 835.0,221.9 887.5,197.1 S957.5,172.3 1000.0,208.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2448" />
+    <path d="M750,204.9 C807.5,177.4 835.0,232.4 887.5,204.9 S957.5,177.4 1000.0,217.3" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2450" />
+    <path d="M750,204.9 C807.5,177.4 835.0,232.4 887.5,204.9 S957.5,177.4 1000.0,217.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2452" />
+    <path d="M750,212.7 C807.5,189.9 835.0,235.4 887.5,212.7 S957.5,189.9 1000.0,222.9" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2454" />
+    <path d="M750,212.7 C807.5,189.9 835.0,235.4 887.5,212.7 S957.5,189.9 1000.0,222.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2456" />
+    <path d="M750,220.4 C807.5,195.5 835.0,245.4 887.5,220.4 S957.5,195.5 1000.0,231.7" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2458" />
+    <path d="M750,220.4 C807.5,195.5 835.0,245.4 887.5,220.4 S957.5,195.5 1000.0,231.7" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2460" />
+    <path d="M750,228.2 C807.5,207.1 835.0,249.3 887.5,228.2 S957.5,207.1 1000.0,237.7" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2462" />
+    <path d="M750,228.2 C807.5,207.1 835.0,249.3 887.5,228.2 S957.5,207.1 1000.0,237.7" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2464" />
+    <path d="M750,236.0 C807.5,216.5 835.0,255.5 887.5,236.0 S957.5,216.5 1000.0,244.8" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2466" />
+    <path d="M750,236.0 C807.5,216.5 835.0,255.5 887.5,236.0 S957.5,216.5 1000.0,244.8" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2468" />
+    <path d="M750,243.8 C807.5,218.4 835.0,269.2 887.5,243.8 S957.5,218.4 1000.0,255.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2470" />
+    <path d="M750,243.8 C807.5,218.4 835.0,269.2 887.5,243.8 S957.5,218.4 1000.0,255.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2472" />
+    <path d="M750,251.6 C807.5,223.6 835.0,279.5 887.5,251.6 S957.5,223.6 1000.0,264.1" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2474" />
+    <path d="M750,251.6 C807.5,223.6 835.0,279.5 887.5,251.6 S957.5,223.6 1000.0,264.1" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2476" />
+    <path d="M750,259.3 C807.5,238.2 835.0,280.5 887.5,259.3 S957.5,238.2 1000.0,268.9" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2478" />
+    <path d="M750,259.3 C807.5,238.2 835.0,280.5 887.5,259.3 S957.5,238.2 1000.0,268.9" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2480" />
+    <path d="M750,267.1 C807.5,245.0 835.0,289.2 887.5,267.1 S957.5,245.0 1000.0,277.1" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2482" />
+    <path d="M750,267.1 C807.5,245.0 835.0,289.2 887.5,267.1 S957.5,245.0 1000.0,277.1" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2484" />
+    <path d="M750,274.9 C807.5,261.9 835.0,287.9 887.5,274.9 S957.5,261.9 1000.0,280.7" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2486" />
+    <path d="M750,274.9 C807.5,261.9 835.0,287.9 887.5,274.9 S957.5,261.9 1000.0,280.7" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2488" />
+    <path d="M750,282.7 C807.5,256.9 835.0,308.5 887.5,282.7 S957.5,256.9 1000.0,294.3" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2490" />
+    <path d="M750,282.7 C807.5,256.9 835.0,308.5 887.5,282.7 S957.5,256.9 1000.0,294.3" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2492" />
+    <path d="M750,290.4 C807.5,268.2 835.0,312.7 887.5,290.4 S957.5,268.2 1000.0,300.5" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2494" />
+    <path d="M750,290.4 C807.5,268.2 835.0,312.7 887.5,290.4 S957.5,268.2 1000.0,300.5" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2496" />
+    <path d="M750,298.2 C807.5,276.1 835.0,320.4 887.5,298.2 S957.5,276.1 1000.0,308.2" fill="none" stroke="#7DAFD1" stroke-width="2.2" opacity="0.64" id="path2498" />
+    <path d="M750,298.2 C807.5,276.1 835.0,320.4 887.5,298.2 S957.5,276.1 1000.0,308.2" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2500" />
+    <path d="M750,306.0 C807.5,291.4 835.0,320.6 887.5,306.0 S957.5,291.4 1000.0,312.6" fill="none" stroke="#C7DDED" stroke-width="4" opacity="0.64" id="path2502" />
+    <path d="M750,306.0 C807.5,291.4 835.0,320.6 887.5,306.0 S957.5,291.4 1000.0,312.6" fill="none" stroke="#E6F3FB" stroke-width="0.8" transform="translate(0 2)" opacity="0.8" id="path2504" />
+    <path d="M750,167 C808,211 865,133 925,173 S974,196 1000,176" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2506" />
+    <path d="M750,179 C808,223 865,145 925,185 S974,208 1000,188" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2508" />
+    <path d="M750,191 C808,235 865,157 925,197 S974,220 1000,200" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2510" />
+    <path d="M750,203 C808,247 865,169 925,209 S974,232 1000,212" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2512" />
+    <path d="M750,215 C808,259 865,181 925,221 S974,244 1000,224" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2514" />
+    <path d="M750,227 C808,271 865,193 925,233 S974,256 1000,236" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2516" />
+    <path d="M750,239 C808,283 865,205 925,245 S974,268 1000,248" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2518" />
+    <path d="M750,251 C808,295 865,217 925,257 S974,280 1000,260" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2520" />
+    <path d="M750,263 C808,307 865,229 925,269 S974,292 1000,272" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2522" />
+    <path d="M750,275 C808,319 865,241 925,281 S974,304 1000,284" fill="none" stroke="#B6D2E7" stroke-width="1.2" opacity="0.66" id="path2524" />
+    <use xlink:href="#fibro" transform="translate(830 201) rotate(9) scale(0.83)" opacity="1" id="use2526" />
+    <use xlink:href="#fibro" transform="translate(824 269) rotate(-20) scale(0.79)" opacity="1" id="use2528" />
+    <use xlink:href="#fibro" transform="translate(943 246) rotate(-42) scale(0.88)" opacity="1" id="use2530" />
+    <text x="1028" y="219" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2532">ECM / stromal</text>
+    <text x="1028" y="252" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2534">programs</text>
+    <path d="m 1215,213 v 42" fill="none" stroke="#ad4f18" stroke-width="4.4" stroke-linecap="round" id="path2536" />
+    <path d="m 1208,244 7,11 7,-11" fill="none" stroke="#ad4f18" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" id="path2538" />
+    <use xlink:href="#b-cell" transform="translate(800 367) rotate(0) scale(1.4333333333333333)" opacity="1" id="use2540" />
+    <use xlink:href="#receptor" transform="translate(769.04 341.02) rotate(-50) scale(0.95)" opacity="1" id="use2542" />
+    <use xlink:href="#receptor" transform="translate(796.48 326.73) rotate(-5) scale(0.95)" opacity="1" id="use2544" />
+    <use xlink:href="#receptor" transform="translate(827.05 336.96) rotate(42) scale(0.95)" opacity="1" id="use2546" />
+    <use xlink:href="#receptor" transform="translate(840.32 369.82) rotate(94) scale(0.95)" opacity="1" id="use2548" />
+    <use xlink:href="#receptor" transform="translate(824.33 399.28) rotate(143) scale(0.95)" opacity="1" id="use2550" />
+    <use xlink:href="#receptor" transform="translate(786.18 404.98) rotate(200) scale(0.95)" opacity="1" id="use2552" />
+    <use xlink:href="#receptor" transform="translate(762.02 380.82) rotate(250) scale(0.95)" opacity="1" id="use2554" />
+    <use xlink:href="#b-cell" transform="translate(900 403) rotate(0) scale(1.5666666666666667)" opacity="1" id="use2556" />
+    <use xlink:href="#receptor" transform="translate(866.16 374.6) rotate(-50) scale(0.95)" opacity="1" id="use2558" />
+    <use xlink:href="#receptor" transform="translate(896.15 358.99) rotate(-5) scale(0.95)" opacity="1" id="use2560" />
+    <use xlink:href="#receptor" transform="translate(929.56 370.17) rotate(42) scale(0.95)" opacity="1" id="use2562" />
+    <use xlink:href="#receptor" transform="translate(944.07 406.08) rotate(94) scale(0.95)" opacity="1" id="use2564" />
+    <use xlink:href="#receptor" transform="translate(926.59 438.28) rotate(143) scale(0.95)" opacity="1" id="use2566" />
+    <use xlink:href="#receptor" transform="translate(884.89 444.52) rotate(200) scale(0.95)" opacity="1" id="use2568" />
+    <use xlink:href="#receptor" transform="translate(858.48 418.11) rotate(250) scale(0.95)" opacity="1" id="use2570" />
+    <use xlink:href="#b-cell" transform="translate(778 432) rotate(0) scale(1.0666666666666667)" opacity="1" id="use2572" />
+    <use xlink:href="#receptor" transform="translate(754.96 412.66) rotate(-50) scale(0.95)" opacity="1" id="use2574" />
+    <use xlink:href="#receptor" transform="translate(775.38 402.03) rotate(-5) scale(0.95)" opacity="1" id="use2576" />
+    <use xlink:href="#receptor" transform="translate(798.13 409.65) rotate(42) scale(0.95)" opacity="1" id="use2578" />
+    <use xlink:href="#receptor" transform="translate(808.01 434.1) rotate(94) scale(0.95)" opacity="1" id="use2580" />
+    <use xlink:href="#receptor" transform="translate(796.1 456.02) rotate(143) scale(0.95)" opacity="1" id="use2582" />
+    <use xlink:href="#receptor" transform="translate(767.71 460.27) rotate(200) scale(0.95)" opacity="1" id="use2584" />
+    <use xlink:href="#receptor" transform="translate(749.73 442.29) rotate(250) scale(0.95)" opacity="1" id="use2586" />
+    <use xlink:href="#receptor" transform="translate(897 339) rotate(30) scale(1)" opacity="1" id="use2588" />
+    <text x="1028" y="382" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2590">B-cell receptor</text>
+    <text x="1028" y="415" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2592">programs</text>
+    <path d="M 1222,409 V 367" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" id="path2594" />
+    <path d="m 1215,378 7,-11 7,11" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" id="path2596" />
+    <use xlink:href="#tumor-cell" transform="translate(779 576) rotate(111.28571428571429) scale(1.1333333333333333)" opacity="1" id="use2598" />
+    <use xlink:href="#tumor-cell" transform="translate(812 601) rotate(116.0) scale(1.0666666666666667)" opacity="1" id="use2600" />
+    <use xlink:href="#tumor-cell" transform="matrix(-0.43806981,0.70890005,-0.70890005,-0.43806981,852,614)" opacity="1" id="use2602" x="0" y="0" width="100%" height="100%" />
+    <use xlink:href="#tumor-cell" transform="translate(923 599) rotate(131.85714285714286) scale(0.9333333333333333)" opacity="1" id="use2604" />
+    <use xlink:href="#tumor-cell" transform="translate(771 533) rotate(110.14285714285714) scale(0.9)" opacity="1" id="use2606" />
+    <path d="M834,511 C810,484 774,494 778,531 C783,562 812,573 838,554 C850,546 857,551 868,561 C898,583 933,567 931,535 C929,505 898,491 873,509 C857,521 850,523 834,511Z" fill="url(#pink-cell)" stroke="#CB838B" stroke-width="1.6" id="path2608" />
+    <path d="M787,527 C786,504 814,499 833,519 M875,518 C894,503 920,515 923,535" fill="none" stroke="#FFE2D7" stroke-width="3" id="path2610" />
+    <ellipse cx="815" cy="532" rx="13" ry="20" fill="#D4A4B9" stroke="#B47794" stroke-width="1" id="ellipse2612" />
+    <path d="M807,520 l6,9 l-6,9 M812,520 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2614" />
+    <path d="M811,520 l6,9 l-6,9 M816,520 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2616" />
+    <path d="M815,520 l6,9 l-6,9 M820,520 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2618" />
+    <path d="M819,520 l6,9 l-6,9 M824,520 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2620" />
+    <path d="M823,520 l6,9 l-6,9 M828,520 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2622" />
+    <ellipse cx="899" cy="539" rx="13" ry="20" fill="#D4A4B9" stroke="#B47794" stroke-width="1" id="ellipse2624" />
+    <path d="M891,527 l6,9 l-6,9 M896,527 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2626" />
+    <path d="M895,527 l6,9 l-6,9 M900,527 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2628" />
+    <path d="M899,527 l6,9 l-6,9 M904,527 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2630" />
+    <path d="M903,527 l6,9 l-6,9 M908,527 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2632" />
+    <path d="M907,527 l6,9 l-6,9 M912,527 l-5,9 l5,9" fill="none" stroke="#8F659D" stroke-width="1.6" id="path2634" />
+    <path d="M832,520 Q855,527 880,526" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2636" />
+    <path d="M832,525 Q855,531 880,530" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2638" />
+    <path d="M832,530 Q855,535 880,534" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2640" />
+    <path d="M832,535 Q855,539 880,538" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2642" />
+    <path d="M832,540 Q855,543 880,542" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2644" />
+    <path d="M832,545 Q855,547 880,546" fill="none" stroke="#E6BC87" stroke-width="0.9" id="path2646" />
+    <text x="1028" y="552" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2648">E2F / G2M</text>
+    <text x="1028" y="585" font-size="25" fill="#102033" font-weight="600" text-anchor="start" id="text2650">programs</text>
+    <path d="M 1179,581 V 539" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" id="path2652" />
+    <path d="m 1172,544 7,-11 7,11" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" id="path2654" />
+  </g>
+  <g id="molecular-readouts">
+    <text x="1272" y="120" font-size="32" fill="#102033" font-weight="700" text-anchor="start" id="text2657">Molecular readout differences</text>
+    <text x="1300" y="168" font-size="25" fill="#AD4F18" font-weight="700" text-anchor="start" id="text2659">Primary tumor</text>
+    <text x="1575" y="168" font-size="25" fill="#0875AD" font-weight="700" text-anchor="start" id="text2661">Regional node</text>
+    <rect x="1288" y="182" width="178" height="117" rx="0" fill="#F4F6F8" stroke="#D6DEE5" stroke-width="0.8" id="rect2663" />
+    <rect x="1290.0" y="185.0" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2665" />
+    <rect x="1333.5" y="185.0" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2667" />
+    <rect x="1377.0" y="185.0" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2669" />
+    <rect x="1420.5" y="185.0" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2671" />
+    <rect x="1290.0" y="192.8" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2673" />
+    <rect x="1333.5" y="192.8" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2675" />
+    <rect x="1377.0" y="192.8" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2677" />
+    <rect x="1420.5" y="192.8" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2679" />
+    <rect x="1290.0" y="200.6" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2681" />
+    <rect x="1333.5" y="200.6" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2683" />
+    <rect x="1377.0" y="200.6" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2685" />
+    <rect x="1420.5" y="200.6" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2687" />
+    <rect x="1290.0" y="208.4" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2689" />
+    <rect x="1333.5" y="208.4" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2691" />
+    <rect x="1377.0" y="208.4" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2693" />
+    <rect x="1420.5" y="208.4" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2695" />
+    <rect x="1290.0" y="216.2" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2697" />
+    <rect x="1333.5" y="216.2" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2699" />
+    <rect x="1377.0" y="216.2" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2701" />
+    <rect x="1420.5" y="216.2" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2703" />
+    <rect x="1290.0" y="224.0" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2705" />
+    <rect x="1333.5" y="224.0" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2707" />
+    <rect x="1377.0" y="224.0" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2709" />
+    <rect x="1420.5" y="224.0" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2711" />
+    <rect x="1290.0" y="231.8" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2713" />
+    <rect x="1333.5" y="231.8" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2715" />
+    <rect x="1377.0" y="231.8" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2717" />
+    <rect x="1420.5" y="231.8" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2719" />
+    <rect x="1290.0" y="239.6" width="43" height="7.2" rx="0" fill="#DE6C48" stroke="white" stroke-width="0.25" id="rect2721" />
+    <rect x="1333.5" y="239.6" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2723" />
+    <rect x="1377.0" y="239.6" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2725" />
+    <rect x="1420.5" y="239.6" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2727" />
+    <rect x="1290.0" y="247.4" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2729" />
+    <rect x="1333.5" y="247.4" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2731" />
+    <rect x="1377.0" y="247.4" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2733" />
+    <rect x="1420.5" y="247.4" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2735" />
+    <rect x="1290.0" y="255.2" width="43" height="7.2" rx="0" fill="#E98769" stroke="white" stroke-width="0.25" id="rect2737" />
+    <rect x="1333.5" y="255.2" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2739" />
+    <rect x="1377.0" y="255.2" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2741" />
+    <rect x="1420.5" y="255.2" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2743" />
+    <rect x="1290.0" y="263.0" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2745" />
+    <rect x="1333.5" y="263.0" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2747" />
+    <rect x="1377.0" y="263.0" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2749" />
+    <rect x="1420.5" y="263.0" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2751" />
+    <rect x="1290.0" y="270.8" width="43" height="7.2" rx="0" fill="#EEA891" stroke="white" stroke-width="0.25" id="rect2753" />
+    <rect x="1333.5" y="270.8" width="43" height="7.2" rx="0" fill="#F9DED3" stroke="white" stroke-width="0.25" id="rect2755" />
+    <rect x="1377.0" y="270.8" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2757" />
+    <rect x="1420.5" y="270.8" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2759" />
+    <rect x="1290.0" y="278.6" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2761" />
+    <rect x="1333.5" y="278.6" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2763" />
+    <rect x="1377.0" y="278.6" width="43" height="7.2" rx="0" fill="#B5C8E0" stroke="white" stroke-width="0.25" id="rect2765" />
+    <rect x="1420.5" y="278.6" width="43" height="7.2" rx="0" fill="#B5C8E0" stroke="white" stroke-width="0.25" id="rect2767" />
+    <rect x="1290.0" y="286.4" width="43" height="7.2" rx="0" fill="#F4C8B9" stroke="white" stroke-width="0.25" id="rect2769" />
+    <rect x="1333.5" y="286.4" width="43" height="7.2" rx="0" fill="#FBE9E0" stroke="white" stroke-width="0.25" id="rect2771" />
+    <rect x="1377.0" y="286.4" width="43" height="7.2" rx="0" fill="#B5C8E0" stroke="white" stroke-width="0.25" id="rect2773" />
+    <rect x="1420.5" y="286.4" width="43" height="7.2" rx="0" fill="#B5C8E0" stroke="white" stroke-width="0.25" id="rect2775" />
+    <rect x="1563" y="182" width="178" height="117" rx="0" fill="#F4F6F8" stroke="#D6DEE5" stroke-width="0.8" id="rect2777" />
+    <rect x="1565.0" y="185.0" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2779" />
+    <rect x="1608.5" y="185.0" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2781" />
+    <rect x="1652.0" y="185.0" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2783" />
+    <rect x="1695.5" y="185.0" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2785" />
+    <rect x="1565.0" y="192.8" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2787" />
+    <rect x="1608.5" y="192.8" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2789" />
+    <rect x="1652.0" y="192.8" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2791" />
+    <rect x="1695.5" y="192.8" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2793" />
+    <rect x="1565.0" y="200.6" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2795" />
+    <rect x="1608.5" y="200.6" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2797" />
+    <rect x="1652.0" y="200.6" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2799" />
+    <rect x="1695.5" y="200.6" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2801" />
+    <rect x="1565.0" y="208.4" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2803" />
+    <rect x="1608.5" y="208.4" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2805" />
+    <rect x="1652.0" y="208.4" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2807" />
+    <rect x="1695.5" y="208.4" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2809" />
+    <rect x="1565.0" y="216.2" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2811" />
+    <rect x="1608.5" y="216.2" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2813" />
+    <rect x="1652.0" y="216.2" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2815" />
+    <rect x="1695.5" y="216.2" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2817" />
+    <rect x="1565.0" y="224.0" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2819" />
+    <rect x="1608.5" y="224.0" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2821" />
+    <rect x="1652.0" y="224.0" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2823" />
+    <rect x="1695.5" y="224.0" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2825" />
+    <rect x="1565.0" y="231.8" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2827" />
+    <rect x="1608.5" y="231.8" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2829" />
+    <rect x="1652.0" y="231.8" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2831" />
+    <rect x="1695.5" y="231.8" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2833" />
+    <rect x="1565.0" y="239.6" width="43" height="7.2" rx="0" fill="#2475B8" stroke="white" stroke-width="0.25" id="rect2835" />
+    <rect x="1608.5" y="239.6" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2837" />
+    <rect x="1652.0" y="239.6" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2839" />
+    <rect x="1695.5" y="239.6" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2841" />
+    <rect x="1565.0" y="247.4" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2843" />
+    <rect x="1608.5" y="247.4" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2845" />
+    <rect x="1652.0" y="247.4" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2847" />
+    <rect x="1695.5" y="247.4" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2849" />
+    <rect x="1565.0" y="255.2" width="43" height="7.2" rx="0" fill="#4A8BC5" stroke="white" stroke-width="0.25" id="rect2851" />
+    <rect x="1608.5" y="255.2" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2853" />
+    <rect x="1652.0" y="255.2" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2855" />
+    <rect x="1695.5" y="255.2" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2857" />
+    <rect x="1565.0" y="263.0" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2859" />
+    <rect x="1608.5" y="263.0" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2861" />
+    <rect x="1652.0" y="263.0" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2863" />
+    <rect x="1695.5" y="263.0" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2865" />
+    <rect x="1565.0" y="270.8" width="43" height="7.2" rx="0" fill="#81ADCF" stroke="white" stroke-width="0.25" id="rect2867" />
+    <rect x="1608.5" y="270.8" width="43" height="7.2" rx="0" fill="#D0DCEE" stroke="white" stroke-width="0.25" id="rect2869" />
+    <rect x="1652.0" y="270.8" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2871" />
+    <rect x="1695.5" y="270.8" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2873" />
+    <rect x="1565.0" y="278.6" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2875" />
+    <rect x="1608.5" y="278.6" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2877" />
+    <rect x="1652.0" y="278.6" width="43" height="7.2" rx="0" fill="#ECA39B" stroke="white" stroke-width="0.25" id="rect2879" />
+    <rect x="1695.5" y="278.6" width="43" height="7.2" rx="0" fill="#ECA39B" stroke="white" stroke-width="0.25" id="rect2881" />
+    <rect x="1565.0" y="286.4" width="43" height="7.2" rx="0" fill="#ADC7E1" stroke="white" stroke-width="0.25" id="rect2883" />
+    <rect x="1608.5" y="286.4" width="43" height="7.2" rx="0" fill="#E5EAF2" stroke="white" stroke-width="0.25" id="rect2885" />
+    <rect x="1652.0" y="286.4" width="43" height="7.2" rx="0" fill="#ECA39B" stroke="white" stroke-width="0.25" id="rect2887" />
+    <rect x="1695.5" y="286.4" width="43" height="7.2" rx="0" fill="#ECA39B" stroke="white" stroke-width="0.25" id="rect2889" />
+    <path d="M1482,236 H1544 M1489,230 L1482,236 L1489,242 M1537,230 L1544,236 L1537,242" fill="none" stroke="#53616F" stroke-width="2.6" id="path2891" />
+    <text x="1517" y="312" font-size="13" fill="#71808B" font-weight="400" text-anchor="middle" id="text2893">Schematic profiles</text>
+    <rect x="1269" y="322" width="504" height="273" rx="22" fill="url(#panel)" stroke="#DCE7EF" stroke-width="1.2" id="rect2895" />
+    <circle cx="1348" cy="395" r="54" fill="none" stroke="#D7E0E7" stroke-width="18" id="circle2897" />
+    <circle cx="1348" cy="395" r="54" fill="none" stroke="#2F91BD" stroke-width="18" stroke-dasharray="75.398 339.292" transform="rotate(-90 1348 395)" id="circle2899" />
+    <text x="1348" y="394" font-size="28" fill="#102033" font-weight="700" text-anchor="middle" id="text2901">8/36</text>
+    <text x="1348" y="420" font-size="22" fill="#102033" font-weight="400" text-anchor="middle" id="text2903">pairs</text>
+    <text x="1435" y="367" font-size="29" fill="#0875AD" font-weight="700" text-anchor="start" id="text2905">8/36 pairs · 22.2%</text>
+    <text x="1435" y="406" font-size="22" fill="#102033" font-weight="400" text-anchor="start" id="text2907">Research PAM50 discordance</text>
+    <text x="1435" y="440" font-size="21" fill="#53616F" font-weight="400" text-anchor="start" id="text2909">(43/50 features)</text>
+    <rect x="1288" y="478" width="146" height="52" rx="11" fill="#FDE9D5" stroke="#DDA36A" stroke-width="1.3" id="rect2911" />
+    <rect x="1503" y="478" width="151" height="52" rx="11" fill="#DCEAF7" stroke="#79AEDA" stroke-width="1.3" id="rect2913" />
+    <text x="1361" y="512" font-size="24" fill="#102033" font-weight="700" text-anchor="middle" id="text2915">Luminal A</text>
+    <text x="1578" y="512" font-size="24" fill="#102033" font-weight="700" text-anchor="middle" id="text2917">Luminal B</text>
+    <path d="M1454,504 H1485 M1478,497 L1485,504 L1478,511" fill="none" stroke="#102033" stroke-width="2.6" id="path2919" />
+    <text x="1680" y="512" font-size="24" fill="#102033" font-weight="400" text-anchor="start" id="text2921">6 pairs</text>
+    <text x="1288" y="574" font-size="29" fill="#102033" font-weight="700" text-anchor="start" id="text2923">ROR-S-like scores</text>
+    <path d="M 1566,582 V 543" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" id="path2925" />
+    <path d="m 1559,554 7,-11 7,11" fill="none" stroke="#0875ad" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" id="path2927" />
+    <text x="1288" y="631" font-size="21" fill="#53616F" font-weight="400" text-anchor="start" id="text2929">Research readouts, not clinical assays</text>
+  </g>
+  <g id="independent-support">
+    <use xlink:href="#tumor-cell" transform="translate(178 742) rotate(0) scale(1.0666666666666667)" opacity="1" id="use2932" />
+    <use xlink:href="#tumor-cell" transform="translate(211 730) rotate(0) scale(1.0)" opacity="1" id="use2934" />
+    <use xlink:href="#tumor-cell" transform="translate(220 774) rotate(0) scale(1.0666666666666667)" opacity="1" id="use2936" />
+    <use xlink:href="#tumor-cell" transform="translate(170 780) rotate(0) scale(0.9)" opacity="1" id="use2938" />
+    <use xlink:href="#b-cell" transform="translate(266 733) rotate(0) scale(0.6666666666666666)" opacity="1" id="use2940" />
+    <use xlink:href="#receptor" transform="translate(262.7 714.29) rotate(-10) scale(0.95)" opacity="1" id="use2942" />
+    <use xlink:href="#receptor" transform="translate(281.56 722.1) rotate(55) scale(0.95)" opacity="1" id="use2944" />
+    <use xlink:href="#receptor" transform="translate(279.44 746.44) rotate(135) scale(0.95)" opacity="1" id="use2946" />
+    <use xlink:href="#receptor" transform="translate(253.79 747.55) rotate(220) scale(0.95)" opacity="1" id="use2948" />
+    <use xlink:href="#b-cell" transform="translate(309 754) rotate(0) scale(0.6)" opacity="1" id="use2950" />
+    <use xlink:href="#receptor" transform="translate(306.03 737.16) rotate(-10) scale(0.95)" opacity="1" id="use2952" />
+    <use xlink:href="#receptor" transform="translate(323.01 744.19) rotate(55) scale(0.95)" opacity="1" id="use2954" />
+    <use xlink:href="#receptor" transform="translate(321.09 766.09) rotate(135) scale(0.95)" opacity="1" id="use2956" />
+    <use xlink:href="#receptor" transform="translate(298.01 767.1) rotate(220) scale(0.95)" opacity="1" id="use2958" />
+    <use xlink:href="#b-cell" transform="translate(283 785) rotate(0) scale(0.8333333333333334)" opacity="1" id="use2960" />
+    <use xlink:href="#receptor" transform="translate(278.88 761.61) rotate(-10) scale(0.95)" opacity="1" id="use2962" />
+    <use xlink:href="#receptor" transform="translate(302.45 771.38) rotate(55) scale(0.95)" opacity="1" id="use2964" />
+    <use xlink:href="#receptor" transform="translate(299.79 801.79) rotate(135) scale(0.95)" opacity="1" id="use2966" />
+    <use xlink:href="#receptor" transform="translate(267.73 803.19) rotate(220) scale(0.95)" opacity="1" id="use2968" />
+    <use xlink:href="#fibro" transform="translate(128 777) rotate(27) scale(0.76)" opacity="1" id="use2970" />
+    <use xlink:href="#fibro" transform="translate(154 803) rotate(20) scale(0.8)" opacity="1" id="use2972" />
+    <text x="383" y="721" font-size="27" fill="#1D7A70" font-weight="700" text-anchor="start" id="text2974">Independent cellular support</text>
+    <text x="383" y="762" font-size="24" fill="#102033" font-weight="600" text-anchor="start" id="text2976">5 paired patients</text>
+    <text x="383" y="794" font-size="23" fill="#53616F" font-weight="400" text-anchor="start" id="text2978">Malignant-cell PLAT and S100A4</text>
+    <path d="m 744,768 v 42" fill="none" stroke="#ad4f18" stroke-width="4.4" stroke-linecap="round" id="path2980" />
+    <path d="m 737,799 7,11 7,-11" fill="none" stroke="#ad4f18" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round" id="path2982" />
+    <path d="M859,700 V809" fill="none" stroke="#CFDCE5" stroke-width="1.7" stroke-dasharray="4 6" id="path2984" />
+    <use xlink:href="#person-icon" transform="translate(970 725) rotate(0) scale(0.9)" opacity="1" id="use2986" />
+    <use xlink:href="#person-icon" transform="translate(1024 715) rotate(0) scale(1)" opacity="1" id="use2988" />
+    <use xlink:href="#person-icon" transform="translate(1075 726) rotate(0) scale(0.85)" opacity="1" id="use2990" />
+    <use xlink:href="#person-icon" transform="translate(946 748) rotate(0) scale(0.88)" opacity="1" id="use2992" />
+    <use xlink:href="#person-icon" transform="translate(996 750) rotate(0) scale(0.95)" opacity="1" id="use2994" />
+    <use xlink:href="#person-icon" transform="translate(1046 746) rotate(0) scale(1)" opacity="1" id="use2996" />
+    <use xlink:href="#person-icon" transform="translate(1090 751) rotate(0) scale(0.85)" opacity="1" id="use2998" />
+    <text x="1143" y="721" font-size="27" fill="#1D7A70" font-weight="700" text-anchor="start" id="text3000">Independent clinical context</text>
+    <text x="1143" y="754" font-size="23" fill="#53616F" font-weight="400" text-anchor="start" id="text3002">METABRIC · 1,890 primary tumors</text>
+    <text x="1143" y="783" font-size="21" fill="#53616F" font-weight="400" text-anchor="start" id="text3004">BCR / E2F / G2M: weak nodal-burden associations</text>
+    <text x="1143" y="811" font-size="22" fill="#53616F" font-weight="400" text-anchor="start" id="text3006">Spearman ρ = 0.098–0.112 · unadjusted</text>
+  </g>
+  <g id="take-home">
+    <rect x="29" y="837" width="1744" height="51" rx="25" fill="#EFF5F9" stroke="none" stroke-width="1" id="rect3009" />
+    <text x="901" y="871" font-size="30" fill="#102033" font-weight="700" text-anchor="middle" id="text3011">Sampling site matters for transcriptomic interpretation.</text>
+    </g>
+</svg>
